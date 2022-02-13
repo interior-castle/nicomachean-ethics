@@ -81,15 +81,15 @@ Problem: because a terrible end to one's life (such as Priam's, losing his famil
 
 A refined definition of happiness: "A happy man is one who exercises his faculties in accordance with perfect excellence, being duly furnished with external goods, not for any chance time, but for a full term of years — and who shall continue to live so, and shall die as he lived."
 
-Chapter 11
+## Chapter 11
 
 What of the fortunes of descendants and friends? We should say these affect happiness to some extent in proportion to their closeness and importance to the man. But while it may affect how we view the dead, it doesn't make them happy or unhappy in retrospect.
 
-Chapter 12
+## Chapter 12
 
 Is happiness among the goods we praise or among those we prize (revere)? Among the prized seems more appropriate, as it is final and valued for its own sake. That which is praised is put in relation to something else. Happiness thus seems like something divine.
 
-Chapter 13
+## Chapter 13
 
 Refined, shortened working definition of happiness that we are taking with us outside book 1: "Happiness is an exercise of the vital faculties in accordance with perfect virtue or excellence." It's clear now that we need to explore virtue and excellence to better understand happiness.
 
