@@ -77,9 +77,11 @@ How do we acquire happiness? Our foundational definition shows the way: it isn't
 
 ## Chapter 10
 
-Problem: because a terrible end to one's life (such as Priam's, losing his family and city and being killed) can make one unhappy, does that mean we have to "wait until the end" to call someone happy? And what about men after death: can their status change? Here the primacy of the exercise of faculties wins out: whatever the circumstances of external goods, they aren't ultimately what counts. Happiness through the exercise of rational nature will have a permanence and preserve a man's character. Small evils won't affect it, and even large misfortunes can't entirely snuff out true worth. For the man of true worth will deal with great misfortunes with nobility and greatness of soul; he will do as well as one can. The happy man will thus never become miserable, although he will not be truly happy if the very worst fate of external misfortune befalls him (like Priam).
+Problem: because a terrible end to one's life (such as Priam's, losing his family and city and being killed) can make one unhappy, does that mean we have to "wait until the end" to call someone happy? And what about men after death: can their status change? 
 
-A refined definition of happiness: "A happy man is one who exercises his faculties in accordance with perfect excellence, being duly furnished with external goods, not for any chance time, but for a full term of years — and who shall continue to live so, and shall die as he lived."
+Here the primacy of the exercise of faculties wins out: whatever the circumstances of external goods, they aren't ultimately what counts. Happiness through the exercise of rational nature will have a permanence and preserve a man's character. Small evils won't affect it, and even large misfortunes can't entirely snuff out true worth. For the man of true worth will deal with great misfortunes with nobility and greatness of soul; he will do as well as one can. The happy man will thus never become miserable, although he will not be truly happy if the very worst fate of external misfortune befalls him (like Priam).
+
+A refined definition of happiness taking into account these objections: "A happy man is one who exercises his faculties in accordance with perfect excellence, being duly furnished with external goods, not for any chance time, but for a full term of years — and who shall continue to live so, and shall die as he lived."
 
 ## Chapter 11
 
