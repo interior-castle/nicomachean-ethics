@@ -39,7 +39,7 @@ Moneymaking, like pleasure, is quickly ruled out, as it is a subordinate end by 
 
 ## Chapter 6
 
-What is the universal good, then? Plato's theories are found inadequate for five reasons:
+What is the universal good, then? Plato's and his disciples' theories (of a separated universal good?) are found inadequate for five reasons:
 1. (I don't understand this argument.) There is no common idea in the case of things where one is prior to the other. Predicate good is applied to substances, qualities, relations. But substance, of independent existence, is logically prior to what is relative, for the relative is an accident of a substance. Therefore there can't be a common idea of these goods.
 2. (I only sort of understand this argument.) Good is used in diverse and equivocal ways, as many as there are ways of using the term "being." Thus it can't stand for one and the same notion in every application. But the good we are looking for is singular.
 3. There is no single science of good that applies to the various goods of arts and sciences (strategy for war, health for medicine), but there would be if the notion was one.
