@@ -27,7 +27,7 @@ Caution as to the limits of this subject: it won't be as precise or certain as o
 
 ## Chapter 4
 
-What is this highest good we are seeking? Common among nearly all men (uneducated and wise alike) is that it's happiness. As to what happiness consists of, there are too many opinions to review in this book. Aristotle will be making a fresh start of it, starting from what is known and proceeding to principles. Hence the importance of one having experience in making good practical judgments: only moral training can qualify a man to grasp what is most noble and just, which in turn is the starting point of politics.
+What is this highest good we are seeking? Common among nearly all men (uneducated and wise alike) is that it's happiness. As to what happiness consists of, there are too many opinions to review in this book. Aristotle will be making a fresh start of it, starting from what is known (through the variety of real-world experience) and proceeding from there to principles. Hence the importance of one having experience in making good practical judgments: only moral training can qualify a man to grasp what is most noble and just, which in turn is the starting point of politics.
 
 ## Chapter 5
 
