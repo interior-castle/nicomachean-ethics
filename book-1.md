@@ -35,7 +35,7 @@ The most popular choices for the good life fall into three categories: pleasure,
 
 Yet even virtue on its own may be deficient, as other factors out of our control (like tragedies) may still make a man unhappy. There must be more to the story if happiness is to consist in virtue.
 
-Moneymaking, like pleasure, is quickly ruled out, as it is subordinate by necessity to other ends.
+Moneymaking, like pleasure, is quickly ruled out, as it is a subordinate end by definition and necessity — we make money only to acquire other things.
 
 ## Chapter 6
 
