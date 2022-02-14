@@ -89,7 +89,7 @@ What of the fortunes of descendants and friends? We should say these affect happ
 
 ## Chapter 12
 
-Is happiness among the goods we praise or among those we prize (revere)? Among the prized seems more appropriate, as it is final and valued for its own sake. That which is praised is put in relation to something else. Happiness thus seems like something divine.
+Is happiness among the goods we praise or among those we prize (revere)? Among the prized seems more appropriate, as it is final and valued for its own sake. That which is praised is put in relation to something else, suggesting subordination — and we don't want to say happiness is subordinate to anything, since it is a final end. Happiness thus seems like something divine, and is more properly said to be revered or prized than it is praised.
 
 ## Chapter 13
 
