@@ -8,7 +8,7 @@ I have always gotten the sense that philosophers don't quite know what to do wit
 * **Rest of book 3 and book 4**: Complicated treatment of various virtues
 * **Book 5**: Justice, a virtue that seems to transcend because it deals with others, with relationships
 * **Book 6**: Intellectual virtues, the foil to all of the practical stuff in moral virtue
-* **Books 8 and 9**: Treatment of friendship (my professor considered this the true foundation of the good life, not justice)
+* **Books 8 and 9**: Treatment of friendship (my professor considered this the true foundation of the good life, not justice, and in a sense the climax of the book — he calls it a masterful treatment of the subject)
 * **Rest of book 7 (7.11-14) and book 10.1-5**: Pleasure and pain
 * **Rest of book 10**: The contemplative life
 * **Book 1.1-12**: General consideration of subject, questions and problems raised by it
