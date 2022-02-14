@@ -23,7 +23,7 @@ Argument for one final end: without it, our choices among "competing" and subord
 
 ## Chapter 3
 
-Caution as to the limits of this subject: it won't be as precise or certain as other sciences. We should only expect the precision it can yield, which will be "roughly and in outline." In particular, young men should take caution as this subject matter, which seems to be out of their reach. This is both because political knowledge and/or ethics requires much experience and practice if one is to become a good judge of it and because the young are prone to the passions in ways that cloud their judgment.
+Caution as to the limits of this subject: it won't be as precise or certain as other sciences. We should only expect the precision it can yield, which will be "roughly and in outline." In particular, young men should take caution in studying ethics, as this subject matter seems to be out of their reach in a sense. This is both because political knowledge and/or ethics requires much experience and practice if one is to become a good judge of it and because the young are prone to the passions in ways that cloud their judgment.
 
 ## Chapter 4
 
