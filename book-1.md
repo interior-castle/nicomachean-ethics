@@ -2,16 +2,16 @@
 
 I have always gotten the sense that philosophers don't quite know what to do with book 1 of the *Ethics*. One professor of mine suggested an alternative sequence for reading the book:
 
-* Book 1.13 only and then Book 7.1-10: On *acrasia* (incontinence), the practical problem that spurs on ethical thinking — why do I do things I know I shouldn't do and which I don't want to do?
-* Book 2: Virtue and vice, understanding moral actions
-* Book 3.1-5: Moral responsibility and choice
-* Rest of book 3 and book 4: Complicated treatment of various virtues
-* Book 5: Justice, a virtue that seems to transcend because it deals with others, with relationships
-* Book 6: Intellectual virtues, the foil to all of the practical stuff in moral virtue
-* Books 8 and 9: Treatment of friendship (my professor considered this the true foundation of the good life, not justice)
-* Rest of book 7 (7.11-14) and book 10.1-5: Pleasure and pain
-* Rest of book 10: The contemplative life
-* Book 1.1-12: General consideration of subject, questions and problems raised by it
+* **Book 1.13 only and then Book 7.1-10**: On *acrasia* (incontinence), the practical problem that spurs on ethical thinking — why do I do things I know I shouldn't do and which I don't want to do?
+* **Book 2**: Virtue and vice, understanding moral actions
+* **Book 3.1-5**: Moral responsibility and choice
+* **Rest of book 3 and book 4**: Complicated treatment of various virtues
+* **Book 5**: Justice, a virtue that seems to transcend because it deals with others, with relationships
+* **Book 6**: Intellectual virtues, the foil to all of the practical stuff in moral virtue
+* **Books 8 and 9**: Treatment of friendship (my professor considered this the true foundation of the good life, not justice)
+* **Rest of book 7 (7.11-14) and book 10.1-5**: Pleasure and pain
+* **Rest of book 10**: The contemplative life
+* **Book 1.1-12**: General consideration of subject, questions and problems raised by it
 
 ## Chapter 1
 
