@@ -10,7 +10,7 @@ In short, "states of character arise out of like activites." For this reason, tr
 
 ## Chapter 2
 
-Because good and right actions require the judgment of particular circumstances, there is no fixed answer for which actions are virtuous. Nevertheless, in any given situation, there will be some right course of action that can go wrong either by excess or deficiency. The excesses and deficiencies have to do with our responses to pleasures and pains. Since our actions create our character, someone who consistently fails by excess will be an excessive person (e.g., self-indulgence), and someone who consistently fails by deficiency will become deficient (e.g., a coward). 
+Because good and right actions require the judgment of particular circumstances, there is no fixed, precise, and exact answer for which actions are virtuous. Nevertheless, in any given situation, there will be some right course of action that can go wrong either by excess or deficiency. The excesses and deficiencies have to do with our responses to pleasures and pains. Since our actions create our character, someone who consistently fails by excess will be an excessive person (e.g., self-indulgence), and someone who consistently fails by deficiency will become deficient (e.g., a coward). 
 
 Not only do our actions create our character, but when we have the right sort of character we become more able to do virtuous things. The temperate man, who became temperate through denial of pleasure, is the one most capable of abstaining from pleasures.
 
