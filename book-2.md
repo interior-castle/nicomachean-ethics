@@ -6,11 +6,13 @@ Virtue is of two kinds, intellectual and moral. Moral virtue deals with pleasure
 
 It is clear that moral virtue comes by training and not by nature. We often form habits opposed to virtue, which wouldn't happen if it was our nature to be virtuous. Instead, we have to train ourselves in order to act virtuously. Our nature disposes us to receive virtues, but we become temperate or just by doing temperate or just acts. (Likewise, if we perform indulgent or unjust acts, we become indulgent or unjust.)
 
+There's a nice contrast here: With things that are given by nature, the capacity comes first, and the activity comes from it. But in moral matters, you acquire the capacity by first exercising the act. The capacity of the senses is had by nature; whereas virtues and arts you exercise before you even get the capacity.
+
 In short, "states of character arise out of like activites." For this reason, training in virtue from youth makes a big difference, or perhaps all of the difference, in whether we end up good or bad.
 
 ## Chapter 2
 
-Because good and right actions require the judgment of particular circumstances, there is no fixed, precise, and exact answer for which actions are virtuous. Nevertheless, in any given situation, there will be some right course of action that can go wrong either by excess or deficiency. The excesses and deficiencies have to do with our actions and response to pleasures and pains. Since our actions create our character, someone who consistently fails by excess will be an excessive person (e.g., self-indulgence), and someone who consistently fails by deficiency will become deficient (e.g., a coward). 
+Because good and right actions require the judgment of particular circumstances, there is no fixed, precise, and exact answer for which actions are virtuous. Nevertheless, in any given situation, there will be — *for us*, not objectively — some right course of action that can go wrong either by excess or deficiency. The excesses and deficiencies have to do with our actions and response to pleasures and pains. Since our actions create our character, someone who consistently fails by excess will be an excessive person (e.g., self-indulgence), and someone who consistently fails by deficiency will become deficient (e.g., a coward). 
 
 Not only do our actions create our character, but when we have the right sort of character we become more able to do virtuous things. The temperate man, who became temperate through denial of pleasure, is the one most capable of abstaining from pleasures.
 
@@ -24,23 +26,25 @@ The inquiry of ethics, therefore, should include learning when delight and pain 
 
 When we say that doing just acts makes a man just, we have to qualify what we mean, because an unjust man can on occasion perform a just action. Aristotle adds that the just man is a just man only when he does just acts in the way that just men do them. More specifically, one has to (1) have knowledge of how to act, (2) choose the act and choose it for its own sake, and (3) the act must proceed from a "firm and unchangeable character."
 
-There is no shortcut to building virtuous character. People who "take refuge in theory" may think they have become good, but Aristotle says they are like patients who listen to doctors without ever following their orders. We have to do virtuous acts and work through mistakes and pains until we build the sort of character that allows us to successfully do virtuous things as virtuous people do them.
+There is no shortcut to building virtuous character, no overnight conversion. People who "take refuge in theory" may think they have become good, but Aristotle says they are like patients who listen to doctors without ever following their orders. We have to do virtuous acts and work through mistakes and pains until we build the sort of character that allows us to successfully do virtuous things as virtuous people do them.
 
 ## Chapter 5
 
-What are virtues? Are they passions, faculties, or states of character?
+What are virtues? Are they passions, faculties, or states of character? Aristotle is asking what genus virtue belongs to.
 
 Passions are ruled out, for no one is praised or blamed for feeling, but we do praise and blame people with respect to virtue. For a similar reason, virtue cannot be a faculty, because people are not praised or blamed merely for having certain capacities but for exercising them. "We have the faculties by nature, but we are not made good or bad by nature." All that remains, therefore, is that virtue is a state of character.
 
 ## Chapter 6
 
-What sort of state of character is virtue? It's what brings a man into a good condition and causes his work to be done well. As we saw before, what counts as right action exists on a continuum between extremes of excess and deficiency: of feeling or acting too much or too little. It follows that wherever on that continuum right action happens to be, that place will be an intermediate or mean, a balanced point that avoids the many possible failures of excess or deficiency. With respect to passions, the intermediate is when we feel them "at the right times, in reference to the right objects, towards the right people, with the right motive, and in the right way." And similarly with respect to actions. 
+With the genus (state of character) determined, now we need to know what the difference is. What sort of state of character is virtue? It's what brings a man into a good condition and causes his work to be done well. As we saw before, what counts as right action exists on a continuum between extremes of excess and deficiency: of feeling or acting too much or too little. It follows that wherever on that continuum right action happens to be, that place will be an intermediate or mean, a balanced point that avoids the many possible failures of excess or deficiency. With respect to passions, the intermediate is when we feel them "at the right times, in reference to the right objects, towards the right people, with the right motive, and in the right way." And similarly with respect to actions. 
 
 It's easy to miss the mark and hard to hit it, because there are many more ways to miss than to hit. "Men are good in but one way, but bad in many."
 
 A nice analogy: "We often say of good works of art that it is not possible either to take away or to add anything, implying that excess and defect destroy the goodness of the works of art, while the mean preserves it; and good artists, as we say, look to this in their work." So it is with right action in a given set of circumstances.
 
 Not every action and passion have a mean, because some are named on account of their badness or goodness. There is no right amount of adultery or theft, no right way or place or time to do them. Likewise, there is no such thing as an extreme of temperance, because the term itself denotes an intermediate.
+
+Bottom line: the definition of virtue given in this chapter (as formulated by a professor of mine): "Virtue is a *disposition* dealing with *choice* (genus), regarding the *middle* for us (difference) — namely the middle as determined by *reason*, namely as the *virtuous agent* would determine it."
 
 ## Chapter 7
 
