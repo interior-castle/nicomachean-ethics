@@ -70,7 +70,7 @@ Notes:
 
 ## Chapter 8
 
-The three possible states — mean, excess, and defect — exist relative to one another and are in a sense opposed to each other. For example, the temperate man seems deficient from the point of view of the indulgent man. Some extremes in excess or deficiency are more like the intermediate than their opposites: the rash man is closer to courage than the coward, and the insensible man the temperate than the self-indulgent. In addition, the excesses or defects we more naturally tend toward (like indulgence) seem like they are more opposed to the mean than their opposite extreme.
+The three possible states — mean, excess, and defect — exist relative to one another and are in a sense opposed to each other. For example, the temperate man seems deficient from the point of view of the indulgent man. Some extremes in excess or deficiency are more like the intermediate than their opposites: the rash man is closer to courage than the coward, and the insensible man more like the temperate than the self-indulgent. In general, the excesses or defects we more naturally tend toward (like indulgence) seem like they are more opposed to the mean than their opposite extreme.
 
 ## Chapter 9
 
