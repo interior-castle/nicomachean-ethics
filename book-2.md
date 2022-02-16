@@ -40,7 +40,7 @@ It's easy to miss the mark and hard to hit it, because there are many more ways 
 
 A nice analogy: "We often say of good works of art that it is not possible either to take away or to add anything, implying that excess and defect destroy the goodness of the works of art, while the mean preserves it; and good artists, as we say, look to this in their work." So it is with right action in a given set of circumstances.
 
-Not every action and passion have a mean, because some are named on account of their badness. There is no right amount of adultery or theft. Likewise, there is no such thing as an extreme of temperance, because the term itself denotes an intermediate.
+Not every action and passion have a mean, because some are named on account of their badness or goodness. There is no right amount of adultery or theft, no right way or place or time to do them. Likewise, there is no such thing as an extreme of temperance, because the term itself denotes an intermediate.
 
 ## Chapter 7
 
