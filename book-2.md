@@ -67,3 +67,13 @@ Notes:
 * The mean for smaller honors has no stable name, but we tend to call the person with the virtue by either "ambition" or "unambition" in contrast to the extreme his mean is opposing in a particular case.
 * Aristotle connects the virtues of truthfulness, ready wit, and friendliness together as all pertaining to intercourse in words and actions, with the latter two both being concerned with giving pleasure in that sphere.
 * Feeling shame is a passion, but Aristotle notes we nevertheless praise and blame how much people allow themselves to feel it. This shows there are "means in the passions and concerned with the passions."
+
+## Chapter 8
+
+The three possible states — mean, excess, and defect — exist relative to one another and are in a sense opposed to each other. For example, the temperate man seems deficient from the point of view of the indulgent man. Some extremes in excess or deficiency are more like the intermediate than their opposites: the rash man is closer to courage than the coward, and the insensible man the temperate than the self-indulgent. In addition, the excesses or defects we more naturally tend toward (like indulgence) seem like they are more opposed to the mean than their opposite extreme.
+
+## Chapter 9
+
+We have now sketched out the landscape of the moral virtues. This has revealed that being good is no easy task, since it is not easy to find the mean of action or feeling passion with respect to so many objects in so many circumstances. Anyone can get angry, but getting angry in the right way, at the right time, at the right things, to the right extent, and with the right motive is difficult. "Therefore goodness is both rare and laudable and noble."
+
+Most people, then, should take the tactic of aiming not exactly at the mean but moreso in the direction of the extreme they are less inclined to. For instance, they should aim at abstaining from pleasure more than they might think is precisely the mean, since it is hard to judge and we are prone to indulgence. "Hold the ship out beyond the surf and spray" — so that we hit our target after our course is altered by failures.
