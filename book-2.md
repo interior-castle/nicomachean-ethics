@@ -36,7 +36,7 @@ Passions are ruled out, for no one is praised or blamed for feeling, but we do p
 
 ## Chapter 6
 
-With the genus (state of character) determined, now we need to know what the difference is. What sort of state of character is virtue? It's what brings a man into a good condition and causes his work to be done well. As we saw before, what counts as right action exists on a continuum between extremes of excess and deficiency: of feeling or acting too much or too little. It follows that wherever on that continuum right action happens to be, that place will be an intermediate or mean, a balanced point that avoids the many possible failures of excess or deficiency. With respect to passions, the intermediate is when we feel them "at the right times, in reference to the right objects, towards the right people, with the right motive, and in the right way." And similarly with respect to actions. 
+With the genus (state of character) determined, now we need to know what the difference (species) is. What sort of state of character is virtue? It's what brings a man into a good condition and causes his work to be done well. As we saw before, what counts as right action exists on a continuum between extremes of excess and deficiency: of feeling or acting too much or too little. It follows that wherever on that continuum right action happens to be, that place will be an intermediate or mean, a balanced point that avoids the many possible failures of excess or deficiency. With respect to passions, the intermediate is when we feel them "at the right times, in reference to the right objects, towards the right people, with the right motive, and in the right way." And similarly with respect to actions. 
 
 It's easy to miss the mark and hard to hit it, because there are many more ways to miss than to hit. "Men are good in but one way, but bad in many."
 
@@ -44,7 +44,7 @@ A nice analogy: "We often say of good works of art that it is not possible eithe
 
 Not every action and passion have a mean, because some are named on account of their badness or goodness. There is no right amount of adultery or theft, no right way or place or time to do them. Likewise, there is no such thing as an extreme of temperance, because the term itself denotes an intermediate.
 
-Bottom line: the definition of virtue given in this chapter (as formulated by a professor of mine): "Virtue is a *disposition* dealing with *choice* (genus), regarding the *middle* for us (difference) — namely the middle as determined by *reason*, namely as the *virtuous agent* would determine it."
+**Bottom line**: the definition of virtue given in this chapter is that virtue is a *disposition* dealing with *choice* (genus), regarding the *middle* for us (difference) — namely the middle as determined by *reason*, namely as the *virtuous agent* would determine it.
 
 ## Chapter 7
 
