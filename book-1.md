@@ -96,17 +96,25 @@ With the foundation in place, we return to the common notions of happiness to co
 
 Happiness does seem to require some external goods too, although their absence is better described as "taking the bloom off our happiness" rather than utterly destroying it. External goods seem to relate to our happiness more often by likelihoods than by necessities: For example, can an ugly, low-born person be happy? Perhaps, but it's harder. Etc.
 
-> A[139-140]: "Good ... is achieved only in the concurence of all the factors pertainng to the perfection of the thing. Evil, on the contrary, comes about in a variety of ways by the defect of any single necessary qualification. No evil, however, can be found in which the good is completely destroyed."
+> A[139-140]: "Good ... is achieved only in the concurence of all the factors pertainng to the perfection of the thing. Evil, on the contrary, comes about in a variety of ways by the defect of any single necessary qualification. No evil, however, can be found in which the good is completely corrupted ... so not only all good things are in agreement with the good but even evil things in that they retain something of the good."
+> 
+> A[144]: "The soul, he says, has two kinds of operations. Some of these pass into external matter, such as weaving and building. Operations of this sort are not ends but things done for ends. ... Other operations of the soul, however, remain in the agent himself, as understanding and willing. Operations of this kind are ends. ... Now in an immanent action the operation itself is a perfection and a good of the agent. ... Hence not only is the aforesaid view in agreement with the position of the philosophers who hold that goods of the soul are the chief goods — and we said happiness was concerned with the operation of the soul — but also in this, that we place happiness in the operation itself."
+> 
+> A[159]: "Actions in accord with virtue are not only pleasurable but also noble and good. Actions indeed are pleasureable to an agent when they are agreeable to him by reason of a proper habit. They are noble or beautiful because of a right order of circumstances as of parts, for beauty consists in a fitting arrangement of parts. They are good because ordered to an end."
 
 ## Chapter 9
 
 How do we acquire happiness? Our foundational definition shows the way: it isn't given to us like a gift, but something we learn and acquire over a life.
+
+> A[169]: "It is acceptable to say that happiness has a human cause. Although God is the principal cause, man does contribute something to happiness. ... A thing is not called divine only because it comes from God but also because it makes us like God in goodness."
 
 ## Chapter 10
 
 Problem: because a terrible end to one's life (such as Priam's, losing his family and city and being killed) can make one unhappy, does that mean we have to "wait until the end" to call someone happy? And what about men after death: can their status change? 
 
 Here the primacy of the exercise of faculties wins out: whatever the circumstances of external goods, they aren't ultimately what counts. Happiness through the exercise of rational nature will have a permanence and preserve a man's character. Small evils won't affect it, and even large misfortunes can't entirely snuff out true worth. For the man of true worth will deal with great misfortunes with nobility and greatness of soul; he will do as well as one can. The happy man will thus never become miserable, although he will not be truly happy if the very worst fate of external misfortune befalls him (like Priam).
+
+> A[195]: "In this way the good of virtue shines forth insofar as a man gracefully endures frequent and great misfortunes, not because he may not feel the sorrow or sadness as the Stoics held, but, being courageous and magnanimous, his reason does not succumb to such afflictions. This, in fact, was the difference between the Stoics and the Peripatetics. ... The Stoics held that sorrow in no way afflicts a virtuous man, because, in their view, corporeal or external things are not in any sense a good of man. The Peripatetics, on the contrary, said that a virtuous man is affected by sadness, yet this does not overwhelm reason but is moderated by it."
 
 A refined definition of happiness taking into account these objections: "A happy man is one who exercises his faculties in accordance with perfect excellence, being duly furnished with external goods, not for any chance time, but for a full term of years — and who shall continue to live so, and shall die as he lived."
 
@@ -120,6 +128,6 @@ Is happiness among the goods we praise or among those we prize (revere)? Among t
 
 ## Chapter 13
 
-Refined, shortened working definition of happiness that we are taking with us outside book 1: "Happiness is an exercise of the vital faculties in accordance with perfect virtue or excellence." It's clear now that we need to explore virtue and excellence to better understand happiness.
+Refined, shortened working definition of happiness that we are taking with us outside book 1: "Happiness is a kind of operation in accordance with perfect virtue or excellence." It's clear now that we need to explore virtue and excellence to better understand happiness.
 
 We and those practicing politics are looking for the excellence of man, which is to say the excellence of soul. Thus politicians must have some knowledge of the soul and inquire into the nature of the soul and what is the soul's excellence. The nutritive can be dismissed as having no share in man's excellence. But the faculty of desire or appetite cannot be entirely dismissed: despite being irrational, it participates in our rational decision-making and can submit or oppose the reason. It is due to our faculty of desire/appetite that there is a distinction between purely intellectual virtues and the moral virtues.
