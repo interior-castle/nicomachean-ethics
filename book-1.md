@@ -17,6 +17,10 @@ I have always gotten the sense that philosophers don't quite know what to do wit
 
 "Every art and every kind of inquiry ..." — the good is that at which everything aims. But since there is a variety of concrete things aimed at, and some are subordinated to others, it follows that there is a hierarchy to ends.
 
+A[10]: "There is no problem from the fact that some men desire evil. For they desire evil only under the aspect of the good, that is, insofar as they think it good. Hence their intention primarily aims at the good and only incidentally touches on the evil."
+
+A[14]: "The end is more important than the means — in fact, the means have goodness from their relation to the end."
+
 ## Chapter 2
 
 Argument for one final end: without it, our choices among "competing" and subordinated ends wouldn't make sense. What's the chief end under which all activities can be organized? It always catches me by surprise that the first answer is politics — the emphasis on politics throughout book 1 always catches me by surprise when I read the *Ethics*.
@@ -29,6 +33,8 @@ Caution as to the limits of this subject: it won't be as precise or certain as o
 
 What is this highest good we are seeking? Common among nearly all men (uneducated and wise alike) is that it's happiness. As to what happiness consists of, there are too many opinions to review in this book. Aristotle will be making a fresh start of it, starting from what is known (through the variety of real-world experience) and proceeding from there to principles. Hence the importance of one having experience in making good practical judgments: only moral training can qualify a man to grasp what is most noble and just, which in turn is the starting point of politics.
 
+A[52]: "Now things are said to be better known in two ways. Some are better known in regard to us, such as the composite and sensible; others are better kown absolutely and in themselves, as the simple and the intelligible. Because we acquire knowledge by reasoning, we must proceed from what is better known to us. Now if the better known absolutely are the same as the better known to us, the reason proceeds from principles as in mathematics. If, however, the better known absolutely are different from the better known to us, then we must use the effect-to-cause procedure as in the natural and moral sciences."
+
 ## Chapter 5
 
 The most popular choices for the good life fall into three categories: pleasure, activity/honor, and contemplation. A life dominated by pleasure can be dismissed immediately as the domain of bestial men of no importance or interest to us. What most consider refined or noble is the life dedicated to activity/honor, but Aristotle thinks this must be too superficial for a final answer. Not only does it depend too much on what others think, but virtue seems like a better candidate. 
@@ -37,9 +43,14 @@ Yet even virtue on its own may be deficient, as other factors out of our control
 
 Moneymaking, like pleasure, is quickly ruled out, as it is a subordinate end by definition and necessity — we make money only to acquire other things.
 
+A[58]: "Every man thinks his life to be that to which he is most strongly drawn. ... Because man is most strongly drawn to the last end, it is necessary that the types of life be distinguished according to the diversity of the ultimate end. Now the end has the nature of good, and good is threefold: the useful, the pleasurable, and the virtuous or honorable. Two of these, namely, the pleasurable and the virtuous or honorable, have the nature of end because both are desirable for their own sake. That indeed is called virtuous which is good according to reason ... [and] reason, we must remember, is both speculative and practical. Therefore, that life is called sensual which fixes its end in the pleasures of the senses; and that public which fixes its end in the good of the practical reason ... and that contemplative which fixes its end in the good of the speculative reason or in the contemplation of truth."
+
 ## Chapter 6
 
-What is the universal good, then? Plato's and his disciples' theories (of a separated universal good?) are found inadequate for five reasons:
+What is the universal good, then? Plato's and his disciples' theories (of a separated universal good?) are found inadequate for five reasons.
+
+A[79]: "We must consider that Aristotle does not intend to reject the opinion insofar as Plato maintained a separated good on which all good would depend. In book 12 of the *Metaphysics*, Aristotle expressly mentions a good, separated from the universe, to which the whole universe is ordered. ... He does reject the opinion insofar as Plato held that the separated good is an idea common to all goods."
+
 1. (I don't understand this argument.) There is no common idea in the case of things where one is prior to the other. Predicate good is applied to substances, qualities, relations. But substance, of independent existence, is logically prior to what is relative, for the relative is an accident of a substance. Therefore there can't be a common idea of these goods.
 2. (I only sort of understand this argument.) Good is used in diverse and equivocal ways, as many as there are ways of using the term "being." Thus it can't stand for one and the same notion in every application. But the good we are looking for is singular.
 3. There is no single science of good that applies to the various goods of arts and sciences (strategy for war, health for medicine), but there would be if the notion was one.
@@ -63,13 +74,23 @@ Back to the question of what this ultimate good is. If it is an ultimate good, t
 
 Settling on happiness, we need to define it more precisely. First step: What is the function of man? Not just a particular kind of man (carpenter, sculptor), but man as man? We look at our nature — vegetative, sensible, rational — and rule out what we have in common with plants and animals. That leaves the life of his rational nature. "The result is that the good of man is the exercise of his faculties in accordance with excellence or virtue." And added to that, that this be done for a "full term" and not just a day. It should be a *life* of exercising reason well.
 
+A[124]: "It cannot be said that man's happiness should arise from any kind of life, for even plants have life. But happiness is sought as a good characteristic of man since it is called a human good. ... From this we take it that happiness does not consist in health, beauty, strength, or great stature, for all these things result from activities of vegetative life."
+
 We have arrived here by sketching an outline and filling in details, and Aristotle thinks this is a solid foundation to our inquiry that will obviate a number of difficulties. ("A good start is more than half the race.")
+
+A[113]: "In this work the Philosopher speaks of happiness as it is attainable in this life, for happiness in a future life is entirely beyond the investigation of reason."
+
+A[132]: "Reason has this peculiar characteristic that it grasps the truth gradually, and as a consequence man properly perfects himself in knowledge little by little. On the contrary, separated or intellectual substances attain at once to the knowledge of the truth without any such investigation."
+
+A[133-134]: "He says that time seems to be, as it were, a discoverer of things. ... Improvements have been made in the arts, in which a small discovery was made first and afterwards notable advances were made by the efforts of various men, each looking upon it as a duty to supply what was lacking in the knowledge of his predecessors. But if, on the contrary, application to study be neglected, time is rather a cause of forgetfulness. ... In human history we observe that many sciences which flourished among the ancients gradually have been lost when interest in them ceased."
 
 ## Chapter 8
 
 With the foundation in place, we return to the common notions of happiness to compare. Of the three kinds of goods — external goods, goods of the body, goods of the soul — our definition of happiness is a good of the soul, which is fitting. It fits with other common notions of what the happy man is like and what characteristics people think happiness has. Our notion of happiness includes candidates like virtue, prudence, wisdom. It includes pleasure, which some think a necessary ingredient. Happiness, then, can be at once the best, noblest, and most pleasant thing in the world — we don't have to separate them as competing ends.
 
 Happiness does seem to require some external goods too, although their absence is better described as "taking the bloom off our happiness" rather than utterly destroying it. External goods seem to relate to our happiness more often by likelihoods than by necessities: For example, can an ugly, low-born person be happy? Perhaps, but it's harder. Etc.
+
+A[139-140]: "Good ... is achieved only in the concurence of all the factors pertainng to the perfection of the thing. Evil, on the contrary, comes about in a variety of ways by the defect of any single necessary qualification. No evil, however, can be found in which the good is completely destroyed."
 
 ## Chapter 9
 
