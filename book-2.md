@@ -10,6 +10,10 @@ There's a nice contrast here: With things that are given by nature, the capacity
 
 In short, "states of character arise out of like activites." For this reason, training in virtue from youth makes a big difference, or perhaps all of the difference, in whether we end up good or bad.
 
+> A[247]: "Moral virtue is derived from customary activity. Now moral virtue, found in the appetitive part, implies a certain inclination to something desirable. This inclination is either from nature, which tends to what is agreeable to itself, or from custom, which is transformed into nature."
+> 
+> A[248]: "We are perfected in [virtue] by use, for when we act repeatedly according to reason, a modification is impressed in the appetite by the power of reason. This impression is nothing else but moral virtue."
+
 ## Chapter 2
 
 Because good and right actions require the judgment of particular circumstances, there is no fixed, precise, and exact answer for which actions are virtuous. Nevertheless, in any given situation, there will be — *for us*, not objectively — some right course of action that can go wrong either by excess or deficiency. The excesses and deficiencies have to do with our actions and response to pleasures and pains. Since our actions create our character, someone who consistently fails by excess will be an excessive person (e.g., self-indulgence), and someone who consistently fails by deficiency will become deficient (e.g., a coward). 
