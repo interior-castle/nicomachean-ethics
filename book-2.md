@@ -30,7 +30,13 @@ The inquiry of ethics, therefore, should include learning when delight and pain 
 
 When we say that doing just acts makes a man just, we have to qualify what we mean, because an unjust man can on occasion perform a just action. Aristotle adds that the just man is a just man only when he does just acts in the way that just men do them. More specifically, one has to (1) have knowledge of how to act, (2) choose the act and choose it for its own sake, and (3) the act must proceed from a "firm and unchangeable character."
 
+> A[283]: "We must pay attention to three things: (1) **The first, pertaining to the intellect or reason**, is that one who performs a virtuous action should not act in ignorance or by chance and should know what he is doing. (2) **The second is taken on the part of the appetitive power**. Here two things are noted. One is that the action be not done out of passion, as happens when a person performs a virtuous deed because of fear. But the action should be done by a choice that is not made for the sake of something else, as happens when a person performs a good action for money or vainglory. The actions should be done for the sake of the virtuous work itself which, as something agreeable, is inherently pleasing to him who has the habit of virtue. (3) **The third, taken from the nature of a habit,** is that a person should possess a virtuous choice and operate according to it resolutely — that is, consistently on his part — and with stability so as not to be moved by any external thing."
+> 
+> A[284]: "Only the first of these, knowledge, is required in the arts. A man can be a good artist even if he never chooses to work according to art and does not perservere in his work. But knowledge has little or no importance in a person being virtuous, but his goodness consists entirely in other things that take place within him by frequent actions, and thus he becomes stable."
+
 There is no shortcut to building virtuous character, no overnight conversion. People who "take refuge in theory" may think they have become good, but Aristotle says they are like patients who listen to doctors without ever following their orders. We have to do virtuous acts and work through mistakes and pains until we build the sort of character that allows us to successfully do virtuous things as virtuous people do them.
+
+> A[288]: "Philosophy is to the cure of the soul what medicine is to the cure of the body. Hence, as those who listen to the advice of doctors and disregard it will never have a well regulated body, so those who listen to the warnings of moral philosophers and do not heed them will never have a well regulated soul."
 
 ## Chapter 5
 
