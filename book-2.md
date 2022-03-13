@@ -8,7 +8,7 @@ It is clear that moral virtue comes by training and not by nature. We often form
 
 There's a nice contrast here: With things that are given by nature, the capacity comes first, and the activity comes from it. But in moral matters, you acquire the capacity by first exercising the act. The capacity of the senses is had by nature; whereas virtues and arts you exercise before you even get the capacity.
 
-In short, "states of character arise out of like activites." For this reason, training in virtue from youth makes a big difference, or perhaps all of the difference, in whether we end up good or bad.
+In short, "states of character arise out of like activities." For this reason, training in virtue from youth makes a big difference, or perhaps all of the difference, in whether we end up good or bad.
 
 > A[247]: "Moral virtue is derived from customary activity. Now moral virtue, found in the appetitive part, implies a certain inclination to something desirable. This inclination is either from nature, which tends to what is agreeable to itself, or from custom, which is transformed into nature."
 > 
@@ -24,7 +24,7 @@ Not only do our actions create our character, but when we have the right sort of
 
 Whether we feel pleasure or pain on acting tells us about our state of character. The temperate man not only abstains from pleasures but is also not pained when doing so — whereas an indulgent man who abstains from pleasure is pained. In fact every moral action is thus connected to pleasure and pain, which explains why training from youth in having the right appetites is so important for developing good character. It is much harder to act contrary to our passions once they are deeply ingrained. 
 
-The inquiry of ethics, therefore, should include learning when delight and pain are felt rightly and wrongly. Politics too is, essentially, entirely concerned with pleasure and pain, particularly the pain of punishment as a deterent to bad behavior.
+The inquiry of ethics, therefore, should include learning when delight and pain are felt rightly and wrongly. Politics too is, essentially, entirely concerned with pleasure and pain, particularly the pain of punishment as a deterrent to bad behavior.
 
 ## Chapter 4
 
@@ -32,7 +32,7 @@ When we say that doing just acts makes a man just, we have to qualify what we me
 
 > A[283]: "We must pay attention to three things: (1) **The first, pertaining to the intellect or reason**, is that one who performs a virtuous action should not act in ignorance or by chance and should know what he is doing. (2) **The second is taken on the part of the appetitive power**. Here two things are noted. One is that the action be not done out of passion, as happens when a person performs a virtuous deed because of fear. But the action should be done by a choice that is not made for the sake of something else, as happens when a person performs a good action for money or vainglory. The actions should be done for the sake of the virtuous work itself which, as something agreeable, is inherently pleasing to him who has the habit of virtue. (3) **The third, taken from the nature of a habit,** is that a person should possess a virtuous choice and operate according to it resolutely — that is, consistently on his part — and with stability so as not to be moved by any external thing."
 > 
-> A[284]: "Only the first of these, knowledge, is required in the arts. A man can be a good artist even if he never chooses to work according to art and does not perservere in his work. But knowledge has little or no importance in a person being virtuous, but his goodness consists entirely in other things that take place within him by frequent actions, and thus he becomes stable."
+> A[284]: "Only the first of these, knowledge, is required in the arts. A man can be a good artist even if he never chooses to work according to art and does not persevere in his work. But knowledge has little or no importance in a person being virtuous, but his goodness consists entirely in other things that take place within him by frequent actions, and thus he becomes stable."
 
 There is no shortcut to building virtuous character, no overnight conversion. People who "take refuge in theory" may think they have become good, but Aristotle says they are like patients who listen to doctors without ever following their orders. We have to do virtuous acts and work through mistakes and pains until we build the sort of character that allows us to successfully do virtuous things as virtuous people do them.
 
@@ -65,7 +65,7 @@ Aristotle sketches an outline of the moral virtues and vices:
 | Fear and confidence | Courage | No name (foolhardy, indulgent in fearful activity) and Rash (overconfidence) | Coward |
 | Pleasures | Temperate | Indulgent | No name (insensible) |
 | Giving or taking money | Generosity | Prodigality | Stinginess |
-| Money on a large scale | Magnificence | Tastlessness or vulgarity | Miserliness |
+| Money on a large scale | Magnificence | Tastelessness or vulgarity | Miserliness |
 | Honor and dishonor | Magnanimity | Empty vanity | Undue humility |
 | Smaller honors | No name | Ambition | Unambition |
 | Anger | Good tempered | Irascible | Inirascible |
