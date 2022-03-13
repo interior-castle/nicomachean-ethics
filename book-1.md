@@ -18,9 +18,9 @@ I have always gotten the sense that philosophers don't quite know what to do wit
 "Every art and every kind of inquiry ..." — the good is that at which everything aims. But since there is a variety of concrete things aimed at, and some are subordinated to others, it follows that there is a hierarchy to ends.
 
 > A[1]: "It is the business of the wise man to order. The reason for this is that wisdom is the most powerful perfection of reason, whose characteristic is to know order."
-
+> 
 > A[8]: "We should consider that there are two principles of human acts, namely, the intellect or reason and the appetite, which are active principles as explained in book 3 of *De Anima*. The intellect or reason considers both the speculative and the practical. The rational appetite is concerned with choice and execution."
-
+> 
 > A[9]: "Good is enumerated among the primary entities to such a degree — according to the Platonists — that good is prior to being. But, in reality, good is convertible with being." 
 >
 > A[10]: "There is no problem from the fact that some men desire evil. For they desire evil only under the aspect of the good, that is, insofar as they think it good. Hence their intention primarily aims at the good and only incidentally touches on the evil."
