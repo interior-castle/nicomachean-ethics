@@ -8,3 +8,4 @@
 | Chosen by others | Chosen by me |
 | Things at a distance | Here and now |
 
+This is a test sentence.
