@@ -50,11 +50,15 @@ With the genus (state of character) determined, now we need to know what the dif
 
 It's easy to miss the mark and hard to hit it, because there are many more ways to miss than to hit. "Men are good in but one way, but bad in many."
 
+> A[320]: "As health or beauty comes about in a single way but sickness and ugliness in many, even in an unlimited number of ways, so also moral goodness results in only one way but the act of sin takes place in countless ways. hence it is easy to sin because sin can happen in a variety of modes, but it is difficult to do what is right because rectitude happens only in one way."
+
 A nice analogy: "We often say of good works of art that it is not possible either to take away or to add anything, implying that excess and defect destroy the goodness of the works of art, while the mean preserves it; and good artists, as we say, look to this in their work." So it is with right action in a given set of circumstances.
 
 Not every action and passion have a mean, because some are named on account of their badness or goodness. There is no right amount of adultery or theft, no right way or place or time to do them. Likewise, there is no such thing as an extreme of temperance, because the term itself denotes an intermediate.
 
 **Bottom line**: the definition of virtue given in this chapter is that virtue is a *disposition* dealing with *choice* (genus), regarding the *middle* for us (difference) — namely the middle as determined by *reason*, namely as the *virtuous agent* would determine it.
+
+> Sokolowski commentary: You cannot avoid using the virtuous agent as the measure of virtue; it’s an embodied reason. Virtue is “relative,” but objectively so, not in a relativistic manner, not arbitrary.
 
 ## Chapter 7
 
@@ -82,6 +86,10 @@ Notes:
 * Aristotle connects the virtues of truthfulness, ready wit, and friendliness together as all pertaining to intercourse in words and actions, with the latter two both being concerned with giving pleasure in that sphere.
 * Feeling shame is a passion, but Aristotle notes we nevertheless praise and blame how much people allow themselves to feel it. This shows there are "means in the passions and concerned with the passions."
 
+> A[335-336]: "The root of virtue consists in the rectitude of reason according to which we must direct our actions and passions. Actions however are to be directed in a way different from the passions, for actions in themselves do not resist reason, as buying, selling, and so forth. Consequently, for such things reason need only establish a certain equality of rectitude. But the passions indicate a kind of inclination that can be contrary to reason in a twofold way. In one way it draws reason to something else, as is evident in all passions that deal with following the appetite. ... For these passions reason must establish a rectitude in suppressing and restraining them. In another way passion shrinks from what is according to reason, as in all passions that denote flight of the appetite — for example, fear, hatred, and the like. In passions of this kind reason must establish a rectitude by stabilizing the soul in what is conformable to reason.
+
+
+
 ## Chapter 8
 
 The three possible states — mean, excess, and defect — exist relative to one another and are in a sense opposed to each other. For example, the temperate man seems deficient from the point of view of the indulgent man. Some extremes in excess or deficiency are more like the intermediate than their opposites: the rash man is closer to courage than the coward, and the insensible man more like the temperate than the self-indulgent. In general, the excesses or defects we more naturally tend toward (like indulgence) seem like they are more opposed to the mean than their opposite extreme.
@@ -91,3 +99,4 @@ The three possible states — mean, excess, and defect — exist relative to one
 We have now sketched out the landscape of the moral virtues. This has revealed that being good is no easy task, since it is not easy to find the mean of action or feeling passion with respect to so many objects in so many circumstances. Anyone can get angry, but getting angry in the right way, at the right time, at the right things, to the right extent, and with the right motive is difficult. "Therefore goodness is both rare and laudable and noble."
 
 Most people, then, should take the tactic of aiming not exactly at the mean but moreso in the direction of the extreme they are less inclined to. For instance, they should aim at abstaining from pleasure more than they might think is precisely the mean, since it is hard to judge and we are prone to indulgence. "Hold the ship out beyond the surf and spray" — so that we hit our target after our course is altered by failures.
+
