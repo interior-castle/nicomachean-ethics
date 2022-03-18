@@ -88,7 +88,7 @@ Notes:
 
 > A[335-336]: "The root of virtue consists in the rectitude of reason according to which we must direct our actions and passions. Actions however are to be directed in a way different from the passions, for actions in themselves do not resist reason, as buying, selling, and so forth. Consequently, for such things reason need only establish a certain equality of rectitude. But the passions indicate a kind of inclination that can be contrary to reason in a twofold way. In one way it draws reason to something else, as is evident in all passions that deal with following the appetite. ... For these passions reason must establish a rectitude in suppressing and restraining them. In another way passion shrinks from what is according to reason, as in all passions that denote flight of the appetite — for example, fear, hatred, and the like. In passions of this kind reason must establish a rectitude by stabilizing the soul in what is conformable to reason.
 
-test take away
+
 
 ## Chapter 8
 
