@@ -88,8 +88,6 @@ Notes:
 
 > A[335-336]: "The root of virtue consists in the rectitude of reason according to which we must direct our actions and passions. Actions however are to be directed in a way different from the passions, for actions in themselves do not resist reason, as buying, selling, and so forth. Consequently, for such things reason need only establish a certain equality of rectitude. But the passions indicate a kind of inclination that can be contrary to reason in a twofold way. In one way it draws reason to something else, as is evident in all passions that deal with following the appetite. ... For these passions reason must establish a rectitude in suppressing and restraining them. In another way passion shrinks from what is according to reason, as in all passions that denote flight of the appetite — for example, fear, hatred, and the like. In passions of this kind reason must establish a rectitude by stabilizing the soul in what is conformable to reason.
 
-test
-
 ## Chapter 8
 
 The three possible states — mean, excess, and defect — exist relative to one another and are in a sense opposed to each other. For example, the temperate man seems deficient from the point of view of the indulgent man. Some extremes in excess or deficiency are more like the intermediate than their opposites: the rash man is closer to courage than the coward, and the insensible man more like the temperate than the self-indulgent. In general, the excesses or defects we more naturally tend toward (like indulgence) seem like they are more opposed to the mean than their opposite extreme.
