@@ -87,6 +87,10 @@ Notes:
 * Feeling shame is a passion, but Aristotle notes we nevertheless praise and blame how much people allow themselves to feel it. This shows there are "means in the passions and concerned with the passions."
 
 > A[335-336]: "The root of virtue consists in the rectitude of reason according to which we must direct our actions and passions. Actions however are to be directed in a way different from the passions, for actions in themselves do not resist reason, as buying, selling, and so forth. Consequently, for such things reason need only establish a certain equality of rectitude. But the passions indicate a kind of inclination that can be contrary to reason in a twofold way. In one way it draws reason to something else, as is evident in all passions that deal with following the appetite. ... For these passions reason must establish a rectitude in suppressing and restraining them. In another way passion shrinks from what is according to reason, as in all passions that denote flight of the appetite — for example, fear, hatred, and the like. In passions of this kind reason must establish a rectitude by stabilizing the soul in what is conformable to reason.
+>
+> A[353]: "The man who observes the mean is called witty, giving as it were a pleasant turn to every incident." ... But the man who is guilty of excess is called a buffoon or *bomolochus*, from *bomo* meaning "altar" and *lochos* meaning "plundering." He is said to be like the bird of prey which always flew near the sacrificial altars to snatch some food. In a similar way the man who is excessive in amusement always insists on snatching a word or action of someone to give it a comic turn.
+>
+>  
 
 ## Chapter 8
 
