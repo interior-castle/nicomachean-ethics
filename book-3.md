@@ -33,3 +33,4 @@ Aristotle ends inconclusively. What is choice? It's something involving the rati
 
 ## Chapter 3
 
+Stephen is really cool!
