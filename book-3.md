@@ -12,6 +12,8 @@ Regarding ignorance, he makes a number of distinctions. Aristotle is most intere
 
 An action is voluntary when the moving principle is in the agent himself and when he is aware of the circumstances of his action.
 
+> A[407]: "A thing is sorrowful because it is opposed to the will."
+
 ## Chapter 2
 
 Choice is a subset of voluntary actions. It is not appetite, wish, or opinion.
@@ -29,8 +31,9 @@ Choices can be distinguished from wishes in multiple ways:
 
 Neither is choice an opinion, since mere opinion lacks the moral dimension we see in choices — how they form our character and how praise/blame are (not) assigned to them.
 
-Aristotle ends inconclusively. What is choice? It's something involving the rational principle and thought. It's voluntary — but not all things voluntary are choices.
+Aristotle ends inconclusively. What is choice? It's something involving the rational principle and thought. It's voluntary — but not all things voluntary are choices. He's defined it mostly by negation.
+
+
 
 ## Chapter 3
 
-Stephen is really cool!
