@@ -8,4 +8,4 @@ We know that choosing the mean is correct action, but practically speaking we ne
 
 "Since moral virtue is a state of character concerned with choice, and choice is deliberate desire, therefore both the reasoning must be true and the desire right, if the choice is to be good, and the latter must pursue what the former asserts."
 
-Choice is the efficient cause of action, it is "desire and reasoning toward an end." The intellect is the cause of movement only when desire is involved and is practical. Whether reason dominates (desiderative reason) or desire (ratiocinative desire) doesn't seem to matter, in either case this is what makes human action distinctly human.
+Choice is the efficient cause of action, it is "desire and reasoning toward an end." The intellect is the cause of movement only when desire is involved and is practical. Whether reason dominates (desiderative reason) or desire (ratiocinative desire) doesn't seem to matter, in either case the combination of the two is what makes human action distinctly human.
