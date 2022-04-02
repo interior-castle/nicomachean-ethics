@@ -33,7 +33,13 @@ Neither is choice an opinion, since mere opinion lacks the moral dimension we se
 
 Aristotle ends inconclusively. What is choice? It's something involving the rational principle and thought. It's voluntary — but not all things voluntary are choices. He's defined it mostly by negation.
 
-
-
 ## Chapter 3
+
+Deliberation is the activity of a rational agent who is deciding between means to an end. Thus it falls under what is in our power and can be done. Not everything we can think about is an object of deliberation, only things we make choices about, things that might be brought about by our own efforts. Our deliberation assumes an end (and we don't deliberate about ends); what we have to decide on is the best means to attain the end we have in view.
+
+> Sokolowski: "Deliberation sorts out how the agent can bring the wishable from a distance to something 'near' that he can achieve here and now; it is practical thinking."
+
+> A[470]: "If a man should wish to deliberate about things that rarely happen, for instance, about the possible collapse of a stone bridge over which he must pass, he will never get anything done."
+
+## Chapter 4
 
