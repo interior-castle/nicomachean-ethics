@@ -45,5 +45,7 @@ Deliberation is the activity of a rational agent who is deciding between means t
 
 When we wish for something, we wish for what is — to us — the apparent good. This does not imply (contra modern thinking) that there is no objective good or that all wishes express mere personal preference. Rather, it highlights the importance of having good character. There is an objective good out there, and it's the good man who is most capable of perceiving it as such and wishing for it. Whereas evil men might wish for any chance thing. 
 
-Our perception of pleasure especially tends to mislead us, making things appear to be good when they are, in fact, not.
+Our perception of pleasure especially tends to mislead people, making things appear to be good when they are, in fact, not. This is especially the case for vicious people, who follow their senses more than their reason.
+
+## Chapter 5
 
