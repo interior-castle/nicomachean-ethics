@@ -49,3 +49,13 @@ Our perception of pleasure especially tends to mislead people, making things app
 
 ## Chapter 5
 
+We can now put together concepts from the start of book 3 to say: Our actions are choices, voluntary, and follow a deliberation that determines the best means to achieve the ends we wish for. Therefore, virtuous and vicious actions, and the states of character they create, are within our power. Happiness and wickedness are ultimately voluntary.
+
+Over time, the character we develop by our actions is stable and fixed. While we establish it by free choice, once it is established, it cannot be changed without great difficulty, if at all. Hence, our moral character is voluntary but in a different sense than are our actions. 
+
+"When you have let a stone go, it is too late to recover it; but yet it was in your power to throw it, since the moving principle was in you."
+
+> A[512]: "If a man wills some cause from which he knows a particular effect results, it follows that he wills that effect. Although perhaps he does not intend that effect in itself, nevertheless he rather wishes that the effect exist than that the cause not exist. Thus if someone wishes to walk when it is hot, knowing beforehand he will work up a sweat, it follows that he wishes to perspire. ... It is unreasonable for a man to will to do unjust actions and nevertheless not intend to be unjust or to will to perpetrate seductions and not will to be incontinent."
+
+This ends the discussion of the will. Now Aristotle turns to the virtues and vices he sketched in outline in book 2.
+
