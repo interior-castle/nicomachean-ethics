@@ -59,3 +59,10 @@ Over time, the character we develop by our actions is stable and fixed. While we
 
 This ends the discussion of the will. Now Aristotle turns to the virtues and vices he sketched in outline in book 2.
 
+## Chapter 6
+
+Courage is a mean dealing with fear and rashness. Not the fear of every evil thing, but most properly those that threaten one's life while acting in the service of great and noble causes — and when some good comes from one's death. Going to war for one's country is the paradigmatic case.
+
+> A[534]: "Poverty is not to be feared in the way a bad reputation is to be feared. Neither is sickness to be feared, nor indeed any of those things that do not pertain to wickedness of which man himself is the cause. It is useless for man to fear what he is unable to avoid. In regard to such things, therefore, a man ought to fear lest he fall into any of them by his own wickedness."
+
+## Chapter 7
