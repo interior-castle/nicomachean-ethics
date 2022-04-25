@@ -1,6 +1,6 @@
 # Book 3
 
-## Chapter 1
+## Chapter 1 (Voluntariness)
 
 Opening of the discussion of voluntariness and choice. 
 
@@ -14,7 +14,7 @@ An action is voluntary when the moving principle is in the agent himself and whe
 
 > A[407]: "A thing is sorrowful because it is opposed to the will."
 
-## Chapter 2
+## Chapter 2 (Choice and wish)
 
 Choice is a subset of voluntary actions. It is not appetite, wish, or opinion.
 
@@ -33,7 +33,7 @@ Neither is choice an opinion, since mere opinion lacks the moral dimension we se
 
 Aristotle ends inconclusively. What is choice? It's something involving the rational principle and thought. It's voluntary — but not all things voluntary are choices. He's defined it mostly by negation.
 
-## Chapter 3
+## Chapter 3 (Deliberation)
 
 Deliberation is the activity of a rational agent who is deciding between means to an end. Thus it falls under what is in our power and can be done. Not everything we can think about is an object of deliberation, only things we make choices about, things that might be brought about by our own efforts. Our deliberation assumes an end (and we don't deliberate about ends); what we have to decide on is the best means to attain the end we have in view.
 
@@ -41,13 +41,13 @@ Deliberation is the activity of a rational agent who is deciding between means t
 
 > A[470]: "If a man should wish to deliberate about things that rarely happen, for instance, about the possible collapse of a stone bridge over which he must pass, he will never get anything done."
 
-## Chapter 4
+## Chapter 4 (The apparent good)
 
 When we wish for something, we wish for what is — to us — the apparent good. This does not imply (contra modern thinking) that there is no objective good or that all wishes express mere personal preference. Rather, it highlights the importance of having good character. There is an objective good out there, and it's the good man who is most capable of perceiving it as such and wishing for it. Whereas evil men might wish for any chance thing. 
 
 Our perception of pleasure especially tends to mislead people, making things appear to be good when they are, in fact, not. This is especially the case for vicious people, who follow their senses more than their reason.
 
-## Chapter 5
+## Chapter 5 (Choice and moral character)
 
 We can now put together concepts from the start of book 3 to say: Our actions are choices, voluntary, and follow a deliberation that determines the best means to achieve the ends we wish for. Therefore, virtuous and vicious actions, and the states of character they create, are within our power. Happiness and wickedness are ultimately voluntary.
 
@@ -59,10 +59,25 @@ Over time, the character we develop by our actions is stable and fixed. While we
 
 This ends the discussion of the will. Now Aristotle turns to the virtues and vices he sketched in outline in book 2.
 
-## Chapter 6
+## Chapter 6 (Definition of courage)
 
 Courage is a mean dealing with fear and rashness. Not the fear of every evil thing, but most properly those that threaten one's life while acting in the service of great and noble causes — and when some good comes from one's death. Going to war for one's country is the paradigmatic case.
 
 > A[534]: "Poverty is not to be feared in the way a bad reputation is to be feared. Neither is sickness to be feared, nor indeed any of those things that do not pertain to wickedness of which man himself is the cause. It is useless for man to fear what he is unable to avoid. In regard to such things, therefore, a man ought to fear lest he fall into any of them by his own wickedness."
 
-## Chapter 7
+## Chapter 7 (Courage exemplified)
+
+The courageous man fears and has confidence in the right way and at the right times, such that this is his state of character. Further, the choosing of fear or confidence is in respect to noble things, for which reason this virtue is considered noble. Most men err by fearing excessively, making them cowards.
+
+## Chapter 8 (Misconceptions about courage)
+
+Of soldiers, citizen-soldiers exemplify courage, because they undertake dangers voluntarily for noble reasons. The pursuit of the noble end and the desire to avoid shame make it better than those who serve bravely but under compulsion (that is, because they fear the punishments of not serving).
+
+There are a number of common confusions about what really is courage. In some cases the experience of campaigning makes soldiers hardened against sudden scares that they know are harmless, which leads some to think of courage as a kind of knowledge. Others associate it with passion and working oneself into a frenzy, or to certain dispositions of personality. Even the ignorant may seem brave when holding a difficult position, although this obviously can only be due to their ignorance of the true danger they face, and not to virtue.
+
+## Chapter 9 (What motivates courage)
+
+The rewards of successful courageous action can't fully explain a man's motivation in doing them, because often the reward is small compared to the risk they took. Paradoxically, this is the more true the more virtuous a man is, since the life he risks is that much more worthy and precious. So we must conclude that the real motivation for courageous acts is the pursuit of the nobile and the avoidance of shame, rather than prizes and rewards.
+
+## Chapter 10
+
