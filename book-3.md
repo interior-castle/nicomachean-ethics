@@ -14,7 +14,8 @@ An action is voluntary when the moving principle is in the agent himself and whe
 
 > A[407]: "A thing is sorrowful because it is opposed to the will."
 
-## Chapter 2 (Choice and wish)
+## Chapter 2 
+(Choice and wish)
 
 Choice is a subset of voluntary actions. It is not appetite, wish, or opinion.
 
