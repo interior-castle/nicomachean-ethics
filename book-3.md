@@ -1,7 +1,7 @@
 # Book 3
 
 ## Chapter 1
-### Voluntariness
+### *Voluntariness*
 
 Opening of the discussion of voluntariness and choice. 
 
