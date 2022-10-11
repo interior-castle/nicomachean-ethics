@@ -76,22 +76,28 @@ Courage is a mean dealing with fear and rashness. Not the fear of every evil thi
 
 The courageous man fears and has confidence in the right way and at the right times, such that this is his state of character. Further, the choosing of fear or confidence is in respect to noble things, for which reason this virtue is considered noble. Most men err by fearing excessively, making them cowards.
 
+> Sokolowski: "The brave man is to do the courageous thing, but also to have the appropriate kind and amount of fear."
+
+> A[549]: "The ultimate end of operative virtue is happiness, a perfect good ... but the proximate and proper end is to impress a likeness of the habit on the act."
+>
+> A[554]: "The object of recklessness and fear is evil. But the object of hope and despair is good. ... What is essential causes that which is incidental. For this reason, hope — whose characteristic is to tend towards good — causes recklessness that tends towards the evil it attacks. For the same reason, fear, which flees evil, is the cause of despair, which withdraws from the good. He says, therefore, that the coward is a despairing man inasmuch as he fears his deficiency in everything. On the contrary, the brave man has great hope because he is courageous."
+
 ## Chapter 8 
 ### *Misconceptions about courage*
 
 Of soldiers, citizen-soldiers exemplify courage, because they undertake dangers voluntarily for noble reasons. The pursuit of the noble end and the desire to avoid shame make it better than those who serve bravely but under compulsion (that is, because they fear the punishments of not serving).
 
-There are a number of common confusions about what really is courage. In some cases the experience of campaigning makes soldiers hardened against sudden scares that they know are harmless, which leads some to think of courage as a kind of knowledge. Others associate it with passion and working oneself into a frenzy, or to certain dispositions of personality. Even the ignorant may seem brave when holding a difficult position, although this obviously can only be due to their ignorance of the true danger they face, and not to virtue.
+There are a number of common confusions about what really is courage. In some cases the experience of campaigning makes soldiers hardened against sudden scares that they know are harmless, which leads some to think of courage as a kind of knowledge. Others associate it with passion and working oneself into a frenzy, or to certain dispositions of personality. Even those ignorant of danger may seem brave when holding a difficult position, not realizing how difficult it is — although this action is obviously only due to their ignorance and not to virtue.
 
 ## Chapter 9
 ### *What motivates courage*
 
-The rewards of successful courageous action can't fully explain a man's motivation in doing them, because often the reward is small compared to the risk they took. Paradoxically, this is the more true the more virtuous a man is, since the life he risks is that much more worthy and precious. So we must conclude that the real motivation for courageous acts is the pursuit of the nobile and the avoidance of shame, rather than prizes and rewards.
+The rewards of successful courageous action can't fully explain a man's motivation in doing them, because often the reward is small compared to the risk they took. Paradoxically, this is the more true the more virtuous a man is, since the life he risks is that much more worthy and precious. So we must conclude that the real motivation for courageous acts is the pursuit of the noble and the avoidance of shame, rather than prizes and rewards.
 
 ## Chapter 10
 ### *What temperance concerns*
 
-Temperance, like courage, is a virtue among the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while excess in pleasures of the other senses are usually thought of as something other than self-indulgent. What makes self-indulgence unseemly is its attachment to what is most bestial in man. It makes him brutish and animal like.
+Temperance, like courage, is a moral virtue, or an excellence of the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while excess in pleasures of the other senses are usually thought of as something other than self-indulgent. What makes self-indulgence unseemly is its attachment to what is most bestial in man. It makes him brutish and animal like.
 
 ## Chapter 11
 ### *Appetites*
@@ -102,3 +108,4 @@ Appetites for food, drink, and sex, are "natural" in that they are shared by eve
 ### *Culpability for intemperance*
 
 Pain is more disruptive to our ability to choose than pleasure, which means that particular acts of self-indulgence are more voluntary than acts of cowardice — and therefore more blameworthy. That said, the life of self-indulgence captures a man in a way cowardice does not, seemingly removing his ability to control himself once he has attained this bad state of character. For this reason self-indulgent men are compared to children, and as with children the only way out of the conundrum is to chasten and discipline, preferably at the hands of an instructor, until better moral character can be developed.
+
