@@ -87,6 +87,8 @@ The courageous man fears and has confidence in the right way and at the right ti
 
 Of soldiers, citizen-soldiers exemplify courage, because they undertake dangers voluntarily for noble reasons. The pursuit of the noble end and the desire to avoid shame make it better than those who serve bravely but under compulsion (that is, because they fear the punishments of not serving).
 
+> A[578]: "It is a mark of the brave man to suffer — for the sake of what is honorable and to avoid disgrace — evils that are terrifying to men, real evils and not merely apparent ones."
+
 There are a number of common confusions about what really is courage. In some cases the experience of campaigning makes soldiers hardened against sudden scares that they know are harmless, which leads some to think of courage as a kind of knowledge. Others associate it with passion and working oneself into a frenzy, or to certain dispositions of personality. Even those ignorant of danger may seem brave when holding a difficult position, not realizing how difficult it is — although this action is obviously only due to their ignorance and not to virtue.
 
 ## Chapter 9
