@@ -96,6 +96,8 @@ There are a number of common confusions about what really is courage. In some ca
 
 The rewards of successful courageous action can't fully explain a man's motivation in doing them, because often the reward is small compared to the risk they took. Paradoxically, this is the more true the more virtuous a man is, since the life he risks is that much more worthy and precious. So we must conclude that the real motivation for courageous acts is the pursuit of the noble and the avoidance of shame, rather than prizes and rewards.
 
+> A[590] "We must consider, however, that to some virtuous men death is desirable on account of the hope of a future life. But the Stoics did not discuss this, nor did it pertain to the Philosopher in this work to speak of those things that belong to the condition of another life."
+
 ## Chapter 10
 ### *What temperance concerns*
 
