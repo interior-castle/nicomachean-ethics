@@ -96,12 +96,14 @@ There are a number of common confusions about what really is courage. In some ca
 
 The rewards of successful courageous action can't fully explain a man's motivation in doing them, because often the reward is small compared to the risk they took. Paradoxically, this is the more true the more virtuous a man is, since the life he risks is that much more worthy and precious. So we must conclude that the real motivation for courageous acts is the pursuit of the noble and the avoidance of shame, rather than prizes and rewards.
 
-> A[590] "We must consider, however, that to some virtuous men death is desirable on account of the hope of a future life. But the Stoics did not discuss this, nor did it pertain to the Philosopher in this work to speak of those things that belong to the condition of another life."
+> A[590]: "We must consider, however, that to some virtuous men death is desirable on account of the hope of a future life. But the Stoics did not discuss this, nor did it pertain to the Philosopher in this work to speak of those things that belong to the condition of another life."
 
 ## Chapter 10
 ### *What temperance concerns*
 
 Temperance, like courage, is a moral virtue, or an excellence of the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while excess in pleasures of the other senses are usually thought of as something other than self-indulgent. What makes self-indulgence unseemly is its attachment to what is most bestial in man. It makes him brutish and animal like.
+
+> A[610-611]: "He proves that pleasures arising from these senses [sight, smell, and hearing] belong only indirectly to other animals ... by reference to taste and touch. ... The appetite of the other animals is moved by the instinct of nature alone. On this account animals take pleasure only in the things referring to the preservation of nature; that is why senses of this kind were given them. But senses have been given to men for the perception of sensible things leading in turn to a knowledge of reason, which moves the appetite of man. So it is that man takes pleasure in the very appropriateness of sensible things considered in themselves, even if they are not ordered to the conservation of nature."
 
 ## Chapter 11
 ### *Appetites*
