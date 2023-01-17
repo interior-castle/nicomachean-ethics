@@ -101,7 +101,9 @@ The rewards of successful courageous action can't fully explain a man's motivati
 ## Chapter 10
 ### *What temperance concerns*
 
-Temperance, like courage, is a moral virtue, or an excellence of the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while excess in pleasures of the other senses are usually thought of as something other than self-indulgent. What makes self-indulgence unseemly is its attachment to what is most bestial in man. It makes him brutish and animal like.
+Temperance, like courage, is a moral virtue, or an excellence of the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while excess in pleasures of the other senses are usually thought of as something other than self-indulgent. Even taste is somewhat indirectly a part of self-indulgence: it's the quantity of consumption and the feeling of consuming that's most characteristic of this vice, and that belongs to the sense of touch.
+
+What makes self-indulgence unseemly is its attachment to what is most bestial in man. The sense of touch in particular is the sense most widely shared among animals; it does not belong to man as something proper to him. To be devoted to its pleasure, therefore, makes a man brutish and animal-like.
 
 > A[610-611]: "He proves that pleasures arising from these senses [sight, smell, and hearing] belong only indirectly to other animals ... by reference to taste and touch. ... The appetite of the other animals is moved by the instinct of nature alone. On this account animals take pleasure only in the things referring to the preservation of nature; that is why senses of this kind were given them. But senses have been given to men for the perception of sensible things leading in turn to a knowledge of reason, which moves the appetite of man. So it is that man takes pleasure in the very appropriateness of sensible things considered in themselves, even if they are not ordered to the conservation of nature."
 
