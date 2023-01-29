@@ -101,16 +101,18 @@ The rewards of successful courageous action can't fully explain a man's motivati
 ## Chapter 10
 ### *What temperance concerns*
 
-Temperance, like courage, is a moral virtue, or an excellence of the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while excess in pleasures of the other senses are usually thought of as something other than self-indulgent. Even taste is somewhat indirectly a part of self-indulgence: it's the quantity of consumption and the feeling of consuming that's most characteristic of this vice, and that belongs to the sense of touch.
+Temperance, like courage, is a moral virtue, or an excellence of the irrational parts of our nature. It concerns especially the pleasures of touch and taste, while taking excess pleasure in the experience of the other senses (smell, vision, hearing) are usually thought of as something other than self-indulgent. Even taste is perhaps only indirectly a part of self-indulgence: it's the quantity of consumption and the feeling of consuming that's most characteristic of this vice, and that belongs to the sense of touch.
 
-What makes self-indulgence unseemly is its attachment to what is most bestial in man. The sense of touch in particular is the sense most widely shared among animals; it does not belong to man as something proper to him. To be devoted to its pleasure, therefore, makes a man brutish and animal-like.
+What makes self-indulgence especially unseemly is its attachment to what is most bestial in man. The sense of touch is the sense most widely shared among animals; it does not belong to man as something proper to him. To be devoted to its pleasure, therefore, makes a man brutish and animal-like.
 
-> A[610-611]: "He proves that pleasures arising from these senses [sight, smell, and hearing] belong only indirectly to other animals ... by reference to taste and touch. ... The appetite of the other animals is moved by the instinct of nature alone. On this account animals take pleasure only in the things referring to the preservation of nature; that is why senses of this kind were given them. But senses have been given to men for the perception of sensible things leading in turn to a knowledge of reason, which moves the appetite of man. So it is that man takes pleasure in the very appropriateness of sensible things considered in themselves, even if they are not ordered to the conservation of nature."
+> A[610-611]: "The appetite of the other animals is moved by the instinct of nature alone. On this account animals take pleasure only in the things referring to the preservation of nature; that is why senses of this kind were given them. But senses have been given to men for the perception of sensible things leading in turn to a knowledge of reason, which moves the appetite of man. So it is that man takes pleasure in the very appropriateness of sensible things considered in themselves, even if they are not ordered to the conservation of nature."
 
 ## Chapter 11
 ### *Appetites*
 
 Appetites for food, drink, and sex, are "natural" in that they are shared by everyone, and almost without exception everyone tends to want them more than they ought. In addition to these, we all have particular things we take pleasure in that are unique to us. The self-indulgent man is excessive in both the quality and amount of pleasure he desires, and he is pained when his desires aren't fulfilled. Meanwhile, the temperate man desires neither pleasures that are too indulgent nor too much of the right kind of pleasures, and he is not pained when he abstains from pleasure.
+
+> A[629]: "Although, according to a superficial likelihood, it seems incongruous that anyone should be saddened by reason of pleasure, nevertheless it is true that the intemperate man is distressed by pleasure. He is saddened only by its absence, like a ship lost by the absence of its pilot."
 
 ## Chapter 12
 ### *Culpability for intemperance*
