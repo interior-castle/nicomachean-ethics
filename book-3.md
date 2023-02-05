@@ -107,6 +107,10 @@ What makes self-indulgence especially unseemly is its attachment to what is most
 
 > A[610-611]: "The appetite of the other animals is moved by the instinct of nature alone. On this account animals take pleasure only in the things referring to the preservation of nature; that is why senses of this kind were given them. But senses have been given to men for the perception of sensible things leading in turn to a knowledge of reason, which moves the appetite of man. So it is that man takes pleasure in the very appropriateness of sensible things considered in themselves, even if they are not ordered to the conservation of nature."
 
+> Sokolowski: "Temperance could well be called the special virtue of man as 'rational animal'; it introduces reason into animal appetite."
+>
+> Sokolowski: "Children live primarily in unregulated appetite and need to be 'rationalized' in order to develop as human beings. To follow only appettite will result in the expulsion of reason."
+
 ## Chapter 11
 ### *Appetites*
 
