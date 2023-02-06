@@ -11,7 +11,7 @@ Nevertheless, there is a tendency for the liberal man to give almost excessively
 
 Aristotle: "Hence comes the charge that is brought against fortune, that those who deserve riches most get it least. But it is not unreasonable that it should turn out so; for he cannot have wealth, any more than anything else, if he does not take pains to have it."
 
-Of the vices opposed to liberality, meanness (or miserliness) is worse than prodigality. This is because it's more commonly found in men, who are more apt to receive than give, and their condition is more incurable, especially as age tends to make men miserly, ossifying the vice. Prodigals at least have the impulse to give, which is closer to being correct; they just need to be taught to do so moderately. And this is something teachable, either through wiser men instructing them, or sometimes it is learned through the poverty caused by prodigality early in life.
+Of the vices opposed to liberality, meanness is worse than prodigality. This is because it's more commonly found in men, who are more apt to receive than give, and their condition is and becomes more incurable, especially as they age. Prodigals at least have the impulse to give, which is closer to being correct; they just need to be taught to do so moderately. And this is something teachable, either through wiser men instructing them, or sometimes it is learned through the poverty caused by prodigality early in life.
 
 
 
