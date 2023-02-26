@@ -20,9 +20,9 @@ The next virtue to consider is an extension of liberality and connected with wea
 
 A poor man cannot be magnificent, by definition: if he were to attempt to spend lavishly, it could not be proportionate to his means and therefore could not be virtuous. One who attempts this is a fool. 
 
-Excess in large-scale spending is vulgar and tasteless. A vulgar man will spend too much for things of lesser importance (e.g., running an ordinary dinner party like a wedding banquet), and he will spend too little when it counts (e.g., using showy but shoddy materials for a public building). He uses extravagance to chase admiration, as opposed to honor.
+Excess in large-scale spending is vulgar and tasteless. A vulgar man will spend too much for things of lesser importance (e.g., running an ordinary dinner party like a wedding banquet), and he will spend too little when it counts (e.g., using showy but shoddy materials for a public building). He uses extravagance to vainly chase admiration, as opposed to honorable and good ends.
 
-Those who fall short are niggardly or miserly. They are hesitant to spend great sums and generally spend too little, and to the extent they do spend they constantly lament that they are giving too much. They are also liable to ruin the beauty of a public gift or work by quibbling over trifles in a small-minded way.
+Those who fall short are niggardly or miserly. They are hesitant to spend great sums and generally spend too little, and to the extent they do spend they lament that they are giving too much. They are also liable to ruin the beauty of a public gift or work by quibbling over trifles in a small-minded way.
 
 > A[708]: "Although magnitude indicates a kind of excess, we are not to understand that the munificent person spends on such a grand scale that he exceeds the bounds of reason, but his expenditures are made in amounts that are also in keeping with what is becoming."
 
@@ -32,7 +32,9 @@ Those who fall short are niggardly or miserly. They are hesitant to spend great 
 
 > A[713]: "So then the project on which the money is spent must be such that it is worthy of the cost or expense, and this ought to be worthy of the work, or in excess of it. It is very difficult to attain the mean; hence if a departure from the mean should occur, virtue always inclines to what has less evil, as the brave man to less fear, the liberal man to giving, and so the munificent man to more spending."
 
+> A[719]: "The gentiles, however, worshipped not only gods, i.e., certain separated substances, but also demons whom they held to be intermediaries between gods and men. Therefore, he adds that everything expended on the worship of any demon whatsoever belongs to [magnificence]. The Philosopher speaks here of a heathen custom that has been abrogated by the plain truth. Hence if someone now spent any money on the worship of a demon, he would not be munificent but sacrilegious."
 
+> A[727]: "The splendid gifts bestowed on some resemble those given to God. The reason is that, as offerings are consecrated to God not because he needs them but out of reverence and honor, so also presents are made to distinguished men more on account of honor than any need."
 
 ## Chapter 3
 ### *Magnanimity*
