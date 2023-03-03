@@ -41,6 +41,8 @@ Those who fall short are niggardly or miserly. They are hesitant to spend great 
 
 
 
+> Sokolowski: "Note that ... the proud man is really beyond honor, because although he will accept it, he does not need it to confirm his awareness of his own nobility. The nobility expresses itself even in his bodily form, in his voice and movement."
+
 
 
 
