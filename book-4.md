@@ -32,14 +32,20 @@ Those who fall short are niggardly or miserly. They are hesitant to spend great 
 
 > A[713]: "So then the project on which the money is spent must be such that it is worthy of the cost or expense, and this ought to be worthy of the work, or in excess of it. It is very difficult to attain the mean; hence if a departure from the mean should occur, virtue always inclines to what has less evil, as the brave man to less fear, the liberal man to giving, and so the munificent man to more spending."
 
-> A[719]: "The gentiles, however, worshipped not only gods, i.e., certain separated substances, but also demons whom they held to be intermediaries between gods and men. Therefore, he adds that everything expended on the worship of any demon whatsoever belongs to [magnificence]. The Philosopher speaks here of a heathen custom that has been abrogated by the plain truth. Hence if someone now spent any money on the worship of a demon, he would not be munificent but sacrilegious."
+> A[719]: "The gentiles, however, worshiped not only gods, i.e., certain separated substances, but also demons whom they held to be intermediaries between gods and men. Therefore, he adds that everything expended on the worship of any demon whatsoever belongs to [magnificence]. The Philosopher speaks here of a heathen custom that has been abrogated by the plain truth. Hence if someone now spent any money on the worship of a demon, he would not be munificent but sacrilegious."
 
 > A[727]: "The splendid gifts bestowed on some resemble those given to God. The reason is that, as offerings are consecrated to God not because he needs them but out of reverence and honor, so also presents are made to distinguished men more on account of honor than any need."
 
 ## Chapter 3
 ### *Magnanimity*
 
+"The man is thought to be proud who thinks himself worthy of great things, being worthy of them. ... The proud man, then, is an extreme in respect of the greatness of his claims, but a mean in respect of the rightness of them."
 
+There is a virtue, for great men, in knowing that they are great and worthy of great things and in claiming them. Internally, their greatness and just reward is the virtue and happiness they possess, which is self-sufficient. Externally, the only fitting thing that can be given to them by others is honor. While honor doesn't match the value of the proud man's virtue, nevertheless it's the highest thing human beings can give — for similar reasons are the gods also honored.
+
+A proud man must be worthy of the honor he claims, so he must be good in the highest degree, great in every other virtue. The vain exceed the mean by claiming honor beyond their deserts, and those who deserve great honors but do not claim them (or reject them) are unduly humble and deficient with respect to the mean. The honors in question should also be those given by good men; a proud man doesn't care what lesser people think of him, whether it's good or bad. Because he despises the judgments of lesser men, people believe proud men to be disdainful. But his judgment is just and correct.
+
+Because honors are granted both for virtue and for certain goods of fortune, like being well-born or in holding a position of power, sometimes it happens that bad men receive honor on account of their external goods. In that case, they try to act with pride but fail to act well, and end up doing whatever they please at random while despising other people.
 
 > Sokolowski: "Note that ... the proud man is really beyond honor, because although he will accept it, he does not need it to confirm his awareness of his own nobility. The nobility expresses itself even in his bodily form, in his voice and movement."
 
