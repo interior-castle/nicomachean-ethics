@@ -39,7 +39,7 @@ Those who fall short are niggardly or miserly. They are hesitant to spend great 
 ## Chapter 3
 ### *Magnanimity*
 
-"The man is thought to be proud who thinks himself worthy of great things, being worthy of them. ... The proud man, then, is an extreme in respect of the greatness of his claims, but a mean in respect of the rightness of them."
+"The man is thought to be proud who thinks himself worthy of great things, being worthy of them. ... The proud man, then, is an extreme in respect of the greatness of his claims, but a mean in respect of the rightness of them." (In the Latin translation: "The magnanimous man holds an extreme in extension but a mean in appropriateness, for his thinks himself deserving in accord with his worth.")
 
 There is a virtue, for great men, in knowing that they are great and worthy of great things and in claiming them. Internally, their greatness and just reward is the virtue and happiness they possess, which is self-sufficient. Externally, the only fitting thing that can be given to them by others is honor. While honor doesn't match the value of the proud man's virtue, nevertheless it's the highest thing human beings can give — for similar reasons are the gods also honored.
 
@@ -47,11 +47,17 @@ A proud man must be worthy of the honor he claims, so he must be good in the hig
 
 Because honors are granted both for virtue and for certain goods of fortune, like being well-born or in holding a position of power, sometimes it happens that bad men receive honor on account of their external goods. In that case, they try to act with pride but fail to act well, and end up doing whatever they please at random while despising other people.
 
+Aristotle: "What is great in every virtue pertains to magnanimity."
+
 > Sokolowski: "Note that ... the proud man is really beyond honor, because although he will accept it, he does not need it to confirm his awareness of his own nobility. The nobility expresses itself even in his bodily form, in his voice and movement."
 
+> A[740]: "The small-souled person is one who refuses to strive after great accomplishments and aims at certain petty undertakings when he is truly capable of what is great. He would bring himself down to affairs more trifling still, except for the fact that he is capable of great things."
 
+> A[ST II-II, Q. 29, a1]: "Since a virtuous habit is denominated chiefly from its act, a man is said to be magnanimous chiefly because he is minded to do some great act. ... If ... one were to despise honors so as not to care to do what is worthy of honor, this would be deserving of blame. Accordingly magnanimity is about honors in the sense that a man strives to do what is deserving of honor, yet not so as to think much of the honor accorded by man."
 
+> A[ST II-II Q. 29, a2]: "He that makes good use of great things is much more able to make good use of little things. Accordingly the magnanimous man looks upon great honors as a thing of which he is worthy, or even little honors as something he deserves. ... Hence he is not uplifted by great honors, because he does not deem them above him; rather does he despise them, and much more such as are ordinary or little. In like manner he is not cast down by dishonor, but despises it, since he recognizes that he does not deserve it."
 
+> A[746]: "He shows how magnanimity is a special virtue when it accompanies other virtues. He says that what is great it any virtue seems to pertain to magnanimity because one who does not perform a great act of virtue is not worthy of great honor. ... Fortitude [for example] intends a courageous action, magnanimity strives for a great deed in the courageous action. Since moral acts take their species from the end to which they tend, it is clear that magnanimity and fortitude differ in species, although they operate in the same matter, because neither virtue follows the same motive."
 
 
 
