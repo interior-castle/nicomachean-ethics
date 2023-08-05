@@ -53,9 +53,9 @@ Aristotle: "What is great in every virtue pertains to magnanimity."
 
 > A[740]: "The small-souled person is one who refuses to strive after great accomplishments and aims at certain petty undertakings when he is truly capable of what is great. He would bring himself down to affairs more trifling still, except for the fact that he is capable of great things."
 
-> A[ST II-II, Q. 29, a1]: "Since a virtuous habit is denominated chiefly from its act, a man is said to be magnanimous chiefly because he is minded to do some great act. ... If ... one were to despise honors so as not to care to do what is worthy of honor, this would be deserving of blame. Accordingly magnanimity is about honors in the sense that a man strives to do what is deserving of honor, yet not so as to think much of the honor accorded by man."
+> A[ST II-II, Q. 129, a1]: "Since a virtuous habit is denominated chiefly from its act, a man is said to be magnanimous chiefly because he is minded to do some great act. ... If ... one were to despise honors so as not to care to do what is worthy of honor, this would be deserving of blame. Accordingly magnanimity is about honors in the sense that a man strives to do what is deserving of honor, yet not so as to think much of the honor accorded by man."
 
-> A[ST II-II Q. 29, a2]: "He that makes good use of great things is much more able to make good use of little things. Accordingly the magnanimous man looks upon great honors as a thing of which he is worthy, or even little honors as something he deserves. ... Hence he is not uplifted by great honors, because he does not deem them above him; rather does he despise them, and much more such as are ordinary or little. In like manner he is not cast down by dishonor, but despises it, since he recognizes that he does not deserve it."
+> A[ST II-II Q. 129, a2]: "He that makes good use of great things is much more able to make good use of little things. Accordingly the magnanimous man looks upon great honors as a thing of which he is worthy, or even little honors as something he deserves. ... Hence he is not uplifted by great honors, because he does not deem them above him; rather does he despise them, and much more such as are ordinary or little. In like manner he is not cast down by dishonor, but despises it, since he recognizes that he does not deserve it."
 
 > A[746]: "He shows how magnanimity is a special virtue when it accompanies other virtues. He says that what is great it any virtue seems to pertain to magnanimity because one who does not perform a great act of virtue is not worthy of great honor. ... Fortitude [for example] intends a courageous action, magnanimity strives for a great deed in the courageous action. Since moral acts take their species from the end to which they tend, it is clear that magnanimity and fortitude differ in species, although they operate in the same matter, because neither virtue follows the same motive."
 
@@ -63,13 +63,7 @@ Aristotle: "What is great in every virtue pertains to magnanimity."
 
 > "What the magnanimous person seeks in each virtue is not only the good specific to it, but also the greatness contained within it, the flourishing of his personality and the perfection he achieves through it. By the same token, what the magnanimous person flees in fleeing vice is not the evil specific to it, but rather the smallness, the diminution in stature, the decline implicit in it." (Alexandre Havard)
 
-
-
-
-
-
-
-
+> A[ST II-II Q. 129, a3]: *Objection*: No virtue is opposed to another, but magnanimity is opposed to humility, since "the magnanimous deems himself worthy of great things and despises others." *Reply*: There is in man something great which he possesses through the gift of God; and something defective which accrues to him through the weakness of nature. Accordingly magnanimity makes a man deem himself worthy of great things in consideration of the gifts he holds from God: thus if his soul is endowed with great virtue, magnanimity makes him tend to perfect works of virtue; and the same is to be said of the use of any other good, such as science or external fortune. On the other hand, humility makes a man think little of himself in consideration of his own deficiency, and magnanimity makes him despise others in so far as they fall away from God's gifts: since he does not think so much of others as to do anything wrong for their sake. Yet humility makes us honor others and esteem them better than ourselves, in so far as we see some of God's gifts in them. Hence it is written of the just man (Ps. 14:4): "In his sight a vile person is contemned," which indicates the contempt of magnanimity, "but he honoreth them that fear the Lord," which points to the reverential bearing of humility. It is therefore evident that magnanimity and humility are not contrary to one another, although they seem to tend in contrary directions, because they proceed according to different considerations.
 
 
 
