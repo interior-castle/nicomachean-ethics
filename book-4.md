@@ -59,6 +59,10 @@ Aristotle: "What is great in every virtue pertains to magnanimity."
 
 > A[746]: "He shows how magnanimity is a special virtue when it accompanies other virtues. He says that what is great it any virtue seems to pertain to magnanimity because one who does not perform a great act of virtue is not worthy of great honor. ... Fortitude [for example] intends a courageous action, magnanimity strives for a great deed in the courageous action. Since moral acts take their species from the end to which they tend, it is clear that magnanimity and fortitude differ in species, although they operate in the same matter, because neither virtue follows the same motive."
 
+> "Aquinas takes up the formulae of Aristotle, but gives them a different meaning. Whereas Aristotle says that the magnanimous man considers himself worthy of great things (great honors), Aquinas says he considers himself worthy of *doing* great things, which he aims to accomplish for themselves and their inherent grandeur. At the same time, he finds that, without wanting to, he has merited honor, and now must make good use of it." (Alexandre Havard)
+
+> "What the magnanimous person seeks in each virtue is not only the good specific to it, but also the greatness contained within it, the flourishing of his personality and the perfection he achieves through it. By the same token, what the magnanimous person flees in fleeing vice is not the evil specific to it, but rather the smallness, the diminution in stature, the decline implicit in it." (Alexandre Havard)
+
 
 
 
