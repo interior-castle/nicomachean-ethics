@@ -70,7 +70,7 @@ Aristotle sketches an outline of the moral virtues and vices:
 | Pleasures | Temperate | Indulgent | No name (insensible) |
 | Giving or taking money | Generosity | Prodigality | Stinginess |
 | Money on a large scale | Magnificence | Tastelessness or vulgarity | Miserliness |
-| Honor and dishonor | Magnanimity | Empty vanity | Undue humility |
+| Honor and dishonor | Magnanimity | Empty vanity | Undue humility, being small-souled |
 | Smaller honors | No name | Ambition | Unambition |
 | Anger | Good tempered | Irascible | Inirascible |
 | Truth | Truthfulness | Boastful | Mock modesty |

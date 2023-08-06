@@ -5,13 +5,13 @@
 
 Virtue with respect to wealth consists in taking and giving properly. The more difficult, uncommon, socially useful, and praised thing is to *give* wealth well, and hence this virtue is more associated with giving and called liberality. 
 
-The liberal man gives for the sake of doing what's noble, and he does so with pleasure, or at least without pain. He is a competent manager of his own resources so that he will have wealth to give — this is in contrast to the prodigal man who runs through his own substance. Likewise, the liberal man is selective in his giving and skilled at picking the right people at the right time, giving the right amounts, for noble causes, etc.
+The liberal man gives for the sake of doing what's noble, and he does so with pleasure, or at least without pain. He is a competent manager of his own resources so that he will have wealth to give — this is in contrast to the prodigal man who runs through his own substance. Likewise, the liberal man is selective in his giving and skilled at picking the right people to give to, at the right time, in the right amounts, for noble causes, etc.
 
 Nevertheless, there is a tendency for the liberal man to give almost excessively, such that he ends with less wealth than he starts with. This is because he values doing noble things more than possessing wealth, and he sees wealth as a means to the end of noble giving. (Misers, by contrast, see their wealth as a representation of their own achievement and part with it only grudgingly.)
 
 Aristotle: "Hence comes the charge that is brought against fortune, that those who deserve riches most get it least. But it is not unreasonable that it should turn out so; for he cannot have wealth, any more than anything else, if he does not take pains to have it."
 
-Of the vices opposed to liberality, meanness is worse than prodigality. This is because it's more commonly found in men, who are innately more apt to receive than give and who tend to become incurable in their vice as life's challenges and old age make him think he is in need. Prodigals at least have the impulse to give, which is closer to being correct; they just need to be taught to do so moderately. And this is something teachable, either through wiser men instructing them, or sometimes it is learned through the poverty caused by prodigality early in life.
+Of the vices opposed to liberality, meanness is worse than prodigality. This is because it's more commonly found in men, who are innately more apt to receive than give and who tend to become incurable in their vice as life's challenges and old age make him think he is in need. Prodigals at least have the impulse to give, which is closer to being correct; they just need to be taught to do so moderately. And this is something teachable, either through wiser men instructing them, or sometimes it is learned the hard way, through the poverty caused by prodigality early in life.
 
 ## Chapter 2
 ### *Magnificence*
@@ -59,13 +59,25 @@ Aristotle: "What is great in every virtue pertains to magnanimity."
 
 > A[746]: "He shows how magnanimity is a special virtue when it accompanies other virtues. He says that what is great it any virtue seems to pertain to magnanimity because one who does not perform a great act of virtue is not worthy of great honor. ... Fortitude [for example] intends a courageous action, magnanimity strives for a great deed in the courageous action. Since moral acts take their species from the end to which they tend, it is clear that magnanimity and fortitude differ in species, although they operate in the same matter, because neither virtue follows the same motive."
 
-> "Aquinas takes up the formulae of Aristotle, but gives them a different meaning. Whereas Aristotle says that the magnanimous man considers himself worthy of great things (great honors), Aquinas says he considers himself worthy of *doing* great things, which he aims to accomplish for themselves and their inherent grandeur. At the same time, he finds that, without wanting to, he has merited honor, and now must make good use of it." (Alexandre Havard)
+> Alexandre Havard: "Aquinas takes up the formulae of Aristotle, but gives them a different meaning. Whereas Aristotle says that the magnanimous man considers himself worthy of great things (great honors), Aquinas says he considers himself worthy of *doing* great things, which he aims to accomplish for themselves and their inherent grandeur. At the same time, he finds that, without wanting to, he has merited honor, and now must make good use of it."
 
-> "What the magnanimous person seeks in each virtue is not only the good specific to it, but also the greatness contained within it, the flourishing of his personality and the perfection he achieves through it. By the same token, what the magnanimous person flees in fleeing vice is not the evil specific to it, but rather the smallness, the diminution in stature, the decline implicit in it." (Alexandre Havard)
+> Alexandre Havard: "What the magnanimous person seeks in each virtue is not only the good specific to it, but also the greatness contained within it, the flourishing of his personality and the perfection he achieves through it. By the same token, what the magnanimous person flees in fleeing vice is not the evil specific to it, but rather the smallness, the diminution in stature, the decline implicit in it."
 
 > A[ST II-II Q. 129, a3]: *Objection*: No virtue is opposed to another, but magnanimity is opposed to humility, since "the magnanimous deems himself worthy of great things and despises others." *Reply*: There is in man something great which he possesses through the gift of God; and something defective which accrues to him through the weakness of nature. Accordingly magnanimity makes a man deem himself worthy of great things in consideration of the gifts he holds from God: thus if his soul is endowed with great virtue, magnanimity makes him tend to perfect works of virtue; and the same is to be said of the use of any other good, such as science or external fortune. On the other hand, humility makes a man think little of himself in consideration of his own deficiency, and magnanimity makes him despise others in so far as they fall away from God's gifts: since he does not think so much of others as to do anything wrong for their sake. Yet humility makes us honor others and esteem them better than ourselves, in so far as we see some of God's gifts in them. Hence it is written of the just man (Ps. 14:4): "In his sight a vile person is contemned," which indicates the contempt of magnanimity, "but he honoreth them that fear the Lord," which points to the reverential bearing of humility. It is therefore evident that magnanimity and humility are not contrary to one another, although they seem to tend in contrary directions, because they proceed according to different considerations.
 
+## Chapter 4
+### *Smaller honors*
 
+Just as giving money has two virtues that correspond to small amounts (liberality) and large amounts (magnificence), so also are there two virtues for great honors (magnanimity) and small honors. 
+
+The virtue for desiring small honors moderately has no name. Interestingly, we tend to refer to the mean by the same name as the extremes, depending on the situation. Specifically, we sometimes praise people for ambition when it's reasonable, thinking them manly and a lover of what's noble. And other times we praise people for refraining from ambition, thinking that more reasonable and moderate in those circumstances. The virtuous man will seem extreme in the direction opposite to whichever vice is being considered. (We do this also for other virtues: for example, the brave man seems reckless compared to the coward.)
+
+Aristotle: "The mean being with a name, the extremes seem to dispute for its place as though that were vacant by default."
+
+> A[795]: "The mean in this matter is praiseworthy according as honor and desire for honor are valued at their true worth."
+
+## Chapter 5
+### *Meekness*
 
 
 
