@@ -85,7 +85,7 @@ There are several kinds of excess in anger: we can distinguish according to how 
 
 It's hard to say exactly how much is the right amount of anger, at what things, held for how long, etc. The difficulty of judgment in this area means that we are more lenient in how we assess people, often praising anger (or its lack) in deviations from the mean — as long as such deviations are minor.
 
-
+> A[804]: "Since the Stoics were of the opinion that all anger is censurable, he consequently shows that the defect of anger sometimes is censurable. ... It is evident that anger is caused by sadness. But sadness is a feeling of injury. If then someone fails to be angry at the things he should, he does not grieve for them and so does not feel they are evil. This pertains to a lack of wisdom."
 
 
 ## Chapter 6
