@@ -95,10 +95,18 @@ There is a virtue in giving pleasure to others through general social interactio
 
 Those who strive to give pleasure always in every situation do so excessively. When they do so merely by disposition, they are obsequious. Flatterers do the same thing but with an eye toward some gain. On the other extreme are the churlish or boorish, who lack social grace and tend to quarrel.
 
-As a general rule the amiable man strives to give pleasure to others, but this is moderated by a commitment to truth, justice, honor, and the like. Sometimes a situation requires causing others pain, for example to avoid disgrace, dishonor, or harm. Nevertheless, amiability is characterized most by its pleasantness.
+As a general rule the amiable man strives to give pleasure to others, but this is moderated by a commitment to truth, justice, honor, and the like. Sometimes a situation requires causing others pain by your speech, for example to avoid disgrace, dishonor, or harm. Nevertheless, amiability is characterized most by its pleasantness.
 
+## Chapter 7
+### Truthfulness
 
+Aristotle: "The man who observes the mean is one who calls a thing by its own name, being truthful both in life and in word, owning to what he has, and neither more nor less."
 
+The virtues and vices associated with truthfulness concern how we speak about and portray ourselves to others. The truthful person "calls a thing by its own name" and avoids either exagerating what he has or belittling it. He is tastefully modest and inclines toward understatement, which is attractive in its restraint. Those who boast force others to notice them, which is wearisome.
+
+Mock-modest people are better liked than the boastful, because they self-deprecate in order to avoid accolades. Still, they achieve this by embracing falsehoods, which is something that ought to be avoided for its own sake.
+
+The extreme deficiency of truthfulness, when one disclaims even trifling and obvious things, is not mock modesty but instead comes back around to a kind of boastfulness. Such people discard ordinary and conventional things in a showy way, implying that they are far superior to what they discard — and perhaps far superior to the people who make use of those things. There is an arrogance to these extreme displays even though they are superficially deprivations. 
 
 
 
