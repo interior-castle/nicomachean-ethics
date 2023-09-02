@@ -108,7 +108,7 @@ Mock-modest people are better liked than the boastful, because they self-depreca
 
 The extreme deficiency of truthfulness, when one disclaims even trifling and obvious things, is not mock modesty but instead comes back around to a kind of boastfulness. Such people discard ordinary and conventional things in a showy way, implying that they are far superior to what they discard — and perhaps far superior to the people who make use of those things. There is an arrogance to these extreme displays even though they are superficially deprivations. 
 
-
+New text.
 
 
 
