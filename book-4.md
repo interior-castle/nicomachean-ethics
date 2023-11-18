@@ -110,6 +110,11 @@ The extreme deficiency of truthfulness, when one disclaims even trifling and obv
 
 > A[832-833]: "The science of moral matters is completed by a knowledge of particulars. ... We shall be assured that the virtues are kinds of median states by seeing how this is the case in the individual virtues."
 
+## Chapter 8
+### 
+
+
+
 
 
 
