@@ -102,7 +102,7 @@ As a general rule the amiable man strives to give pleasure to others, but this i
 
 Aristotle: "The man who observes the mean is one who calls a thing by its own name, being truthful both in life and in word, owning to what he has, and neither more nor less."
 
-The virtues and vices associated with truthfulness concern how we speak about and portray ourselves to others. The truthful person "calls a thing by its own name" and avoids either exagerating what he has or belittling it. He is tastefully modest and inclines toward understatement, which is attractive in its restraint. By contrast, those who boast force others to notice them, which is wearisome.
+The virtues and vices associated with truthfulness concern how we speak about and portray ourselves to others. The truthful person "calls a thing by its own name" and avoids either exaggerating what he has or belittling it. He is tastefully modest and inclines toward understatement, which is attractive in its restraint. By contrast, those who boast force others to notice them, which is wearisome.
 
 Mock-modest people are better liked than the boastful, because they self-deprecate in order to avoid accolades. Still, they achieve this by embracing falsehoods, which is something that ought to be avoided for its own sake.
 
@@ -111,18 +111,24 @@ The extreme deficiency of truthfulness, when one disclaims even trifling and obv
 > A[832-833]: "The science of moral matters is completed by a knowledge of particulars. ... We shall be assured that the virtues are kinds of median states by seeing how this is the case in the individual virtues."
 
 ## Chapter 8
-### 
+### Amusement
+
+A well rounded life includes tasteful intercourse that gives pleasure, and those who excel in this area demonstrate their polish. Wit implies a kind of sharpness or quickness, and a ready-witted man will be ready at a moment's notice ("to turn this way or that") to say just the right thing whatever comes next. The right words may involve a jest and humor but may also belong simply to tact — finding words that only a good and well-bred man could.
+
+Buffoons are those who exceed in humor, and they are sometimes confused for the ready-witted — especially as most people indulge more in these pleasures than they should. But the buffoon's lack of boundaries betrays his bad character: he is unable to take seriously serious things. By striving for humor at all costs, the buffoon cheapens everything else, leading to abuse of other people and profanation of what is sacred.
+
+The man deficient in wit is a boor. He "contributes nothing and finds fault with everything," depriving himself and others of necessary relaxation.
+
+Aristotle: "One may see this even from the old and the new comedies; to the authors of the former indecency of language was amusing, to those of the latter innuendo is more so; and these differ in no small degree in respect of propriety."
+
+> A[852]: "Those who indulge excessively in playful derision are *bomolochi* or temple plunderers because of a resemblance to birds of prey who used to fly over the temple to pounce upon the entrails of sacrificed animals."
+
+> A[857]: "He affirms that what is characteristic of a tactful person ... a man well-fitted and prepared to engage in conversation with others, belongs to the mean habit of this virtue ... It is proper to men of this sort to narrate and listen to such amusing incidents as become a decent and liberal man who possesses a soul free from slavish passions."
 
 
+## Chapter 9
+### Shame
 
+Shame is not a virtue, being more a feeling than a state of character, but it has a place in the moral development of human beings. For those who are young and make mistakes, they ought to experience shame, which will help them avoid similar mistakes in the future. The virtuous man, however, won't feel shame, because shame is a consequence of doing wrong. 
 
-
-
-
-
-
-
-
-
-
-
+Not having the occasion to feel shame should be distinguished from shamelessness, which is not feeling shame on those occasions when one ought to.
