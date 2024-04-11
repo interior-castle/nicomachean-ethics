@@ -17,7 +17,7 @@ The external benefits of virtue are thus seen as a part of justice, and for this
 
 > Sokolowski: "[Aristotle] implies that there is something rational and good about law in itself. The laws try to impose objectivity and reason into our passions and our doings. They even encourage temperance and other moral virtues."
 
-
+Test line.
 
 
 ## Chapter 2
