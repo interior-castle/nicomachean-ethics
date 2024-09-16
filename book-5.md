@@ -17,11 +17,24 @@ The external benefits of virtue are thus seen as a part of justice, and for this
 
 > Sokolowski: "[Aristotle] implies that there is something rational and good about law in itself. The laws try to impose objectivity and reason into our passions and our doings. They even encourage temperance and other moral virtues."
 
-
-
-
 ## Chapter 2
 ### Particular injustice
+
+While justice can be considered the whole of virtue, it should also be defined and understood as a *part of* virtue, as *one of* the virtues. In both cases — justice in the general sense and in the particular sense — the unjust man is grasping, but in different ways.
+
+In the general sense of injustice, a man might commit any number of wicked acts; what makes these *unjust* is if he commits the wicked act for the sake of gain and not for the pleasure normally associated with it. For example: a man that commits adultery not out of lust but in order to achieve gain in money, influence, or power.
+
+The particular sense of justice, unique as an individual virtue, concerns the rightness and equality of distribution and exchange. In a word, fairness. Particular justice concerns fairness in the honor, money, and authority distributed to men who have a share in the constitution of their state. Regarding exchange, particular justice concerns the rectification of inequalities among voluntary and involuntary transactions.
+
+
+
+
+
+
+
+
+
+
 
 
 
