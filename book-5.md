@@ -24,7 +24,7 @@ While justice can be considered the whole of virtue, it should also be defined a
 
 In the general sense of injustice, a man might commit any number of wicked acts; what makes these *unjust* is if he commits the wicked act for the sake of gain and not for the pleasure normally associated with it. For example: a man that commits adultery not out of lust but in order to achieve gain in money, influence, or power.
 
-The particular sense of justice, unique as an individual virtue, concerns the rightness and equality of distribution and exchange. In a word, fairness. Particular justice concerns fairness in the honor, money, and authority distributed to men who have a share in the constitution of their state. Regarding exchange, particular justice concerns the rectification of inequalities among voluntary and involuntary transactions.
+The particular sense of justice, unique as an individual virtue, concerns the rightness and equality of distribution and exchange. In a word, fairness. Particular justice concerns fairness in the honor, money, and authority distributed to men who have a share in the constitution of their state. Regarding exchange, particular justice concerns corrections to inequalities that happen among voluntary and involuntary transactions.
 
 
 
